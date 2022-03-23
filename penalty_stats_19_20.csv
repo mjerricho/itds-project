@@ -1,495 +1,495 @@
-Id;Competition;Journee;Date;Home team;Away team;Team taking pen;Pen taker;Minute;LtD game-changing pen;DtW game-changing pen;L no game-changing;W no game-changing;Scored;PT sub;PT position;Team win;Last Goal
-1;Premier League;1;10/08/2019;West Ham;Manchester City;Away;Sergio Aguero;84;NO;NO;NO;YES;NO;YES;ST;YES;NO
-2;Premier League;1;10/08/2019;West Ham;Manchester City;Away;Sergio Aguero;86;NO;NO;NO;YES;YES;YES;ST;YES;NO
-3;Premier League;1;11/08/2019;Manchester United;Chelsea;Home;Marcus Rashford;18;NO;YES;NO;NO;YES;NO;W;YES;NO
-4;Premier League;2;17/08/2019;Aston Villa;Bournemouth;Away;Joshua King;2;NO;YES;NO;NO;YES;NO;OM;YES;NO
-5;Premier League;2;19/08/2019;Wolverhampton;Manchester United;Away;Paul Pogba;68;NO;YES;NO;NO;NO;NO;DM;NO;YES
-6;Premier League;3;24/08/2019;Manchester United;Crystal Palace;Home;Marcus Rashford;70;YES;NO;NO;NO;NO;NO;W;NO;NO
-7;Premier League;3;24-août;Watford;West Ham;Away;Mark Noble;3;NO;YES;NO;NO;YES;NO;DM;YES;NO
-8;Premier League;3;24-août;Liverpool;Arsenal;Home;Mohamed Salah;49;NO;NO;NO;YES;YES;NO;W;YES;NO
-9;Premier League;3;25-août;Wolverhampton;Burnley;Home;Raul Jimenez;97;YES;NO;NO;NO;YES;NO;ST;NO;YES
-10;Premier League;4;01-sept;Arsenal;Tottenham;Away;Harry Kane;40;NO;NO;NO;YES;YES;NO;ST;NO;NO
-11;Premier League;5;14-sept;Manchester United;Leicester;Home;Marcus Rashford;8;NO;YES;NO;NO;YES;NO;ST;YES;YES
-12;Premier League;5;15-sept;Watford;Arsenal;Home;Roberto Pereyra;81;YES;NO;NO;NO;YES;YES;OM;NO;YES
-13;Premier League;6;20-sept;Southampton;Bournemouth;Home;James Ward-Prowse;53;NO;NO;YES;NO;YES;NO;OM;NO;NO
-14;Premier League;6;21-sept;Manchester City;Watford;Home;Sergio Aguero;7;NO;NO;NO;YES;YES;NO;ST;YES;NO
-15;Premier League;6;22-sept;Arsenal;Aston Villa;Home;Nicolas Pepe;59;YES;NO;NO;NO;YES;NO;W;YES;NO
-16;Premier League;7;28-sept;Chelsea;Brighton;Home;Jorginho;50;NO;YES;NO;NO;YES;NO;DM;YES;NO
-17;Premier League;7;28-sept;Crystal Palace;Norwich;Home;Luka Milivojevic;21;NO;YES;NO;NO;YES;NO;DM;YES;NO
-18;Premier League;8;05-oct;Liverpool;Leicester;Home;James Milner;95;NO;YES;NO;NO;YES;NO;DM;YES;YES
-19;Premier League;8;05-oct;Norwich;Aston Villa;Away;Wesley;38;NO;NO;NO;YES;NO;NO;ST;YES;NO
-20;Premier League;8;05-oct;West Ham;Crystal Palace;Away;Patrick Van Aanholt;63;YES;NO;NO;NO;YES;NO;LD;YES;NO
-21;Premier League;9;19-oct;Wolverhampton;Southampton;Home;Raul Jimenez;61;YES;NO;NO;NO;YES;NO;ST;NO;YES
-22;Premier League;10;25-oct;Southampton;Leicester;Away;Jamie Vardy;94;NO;NO;NO;YES;YES;NO;ST;YES;YES
-23;Premier League;10;26-oct;Brighton;Everton;Home;Neal Maupay;80;YES;NO;NO;NO;YES;NO;ST;YES;NO
-24;Premier League;10;27-oct;Arsenal;Crystal Palace;Away;Luka Milivojevic;32;NO;NO;YES;NO;YES;NO;DM;NO;NO
-25;Premier League;10;27-oct;Liverpool;Tottenham;Home;Mohamed Salah;75;NO;YES;NO;NO;YES;NO;W;YES;YES
-26;Premier League;10;27-oct;Norwich;Manchester United;Away;Marcus Rashford;29;NO;NO;NO;YES;NO;NO;W;YES;NO
-27;Premier League;10;27-oct;Norwich;Manchester United;Away;Anthony Martial;44;NO;NO;NO;YES;NO;NO;ST;YES;NO
-28;Premier League;11;02-nov;Watford;Chelsea;Home;Deulofeu;80;NO;NO;YES;NO;YES;NO;W;NO;YES
-29;Premier League;13;23-nov;Arsenal;Southampton;Away;James Ward-Prowse;71;NO;YES;NO;NO;NO;NO;OM;NO;NO
-30;Premier League;13;23-nov;Brighton;Leicester;Away;Jamie Vardy;80;NO;NO;NO;YES;NO;NO;ST;YES;NO
-31;Premier League;13;23-nov;Brighton;Leicester;Away;Jamie Vardy;82;NO;NO;NO;YES;YES;NO;ST;YES;YES
-32;Premier League;13;23-nov;Watford;Burnley;Away;Ashley Barnes;82;NO;NO;NO;YES;YES;NO;ST;YES;NO
-33;Premier League;14;01-déc;Norwich;Arsenal;Away;Pierre-Emerick Aubameyang;26;YES;NO;NO;NO;NO;NO;ST;NO;NO
-34;Premier League;14;01-déc;Norwich;Arsenal;Away;Pierre-Emerick Aubameyang;29;YES;NO;NO;NO;YES;NO;ST;NO;NO
-35;Premier League;15;04-déc;Leicester;Watford;Home;Jamie Vardy;55;NO;YES;NO;NO;YES;NO;ST;YES;NO
-36;Premier League;15;04-déc;Manchester United;Tottenham;Home;Marcus Rashford;49;NO;YES;NO;NO;YES;NO;W;YES;YES
-37;Premier League;16;07-déc;Manchester City;Manchester United;Away;Marcus Rashford;23;NO;YES;NO;NO;YES;NO;W;YES;NO
-38;Premier League;17;14-déc;Sheffield;Aston Villa;Away;Jack Grealish;78;NO;NO;YES;NO;NO;NO;W;NO;YES
-39;Premier League;18;21-déc;Manchester City;Leicester;Home;Ilkay Gundogan;43;NO;YES;NO;NO;YES;NO;DM;YES;NO
-40;Premier League;18;22-déc;Watford;Manchester United;Home;Troy Deeney;54;NO;NO;NO;YES;YES;NO;ST;YES;YES
-41;Premier League;18;22-déc;Tottenham;Chelsea;Away;Willian;45;NO;NO;NO;YES;YES;NO;W;YES;YES
-42;Premier League;18;29-janv;West Ham;Liverpool;Away;Mohamed Salah;35;NO;YES;NO;NO;YES;NO;W;YES;NO
-43;Premier League;19;26-déc;Sheffield;Watford;Home;Oliver Norwood;36;YES;NO;NO;NO;YES;NO;DM;NO;YES
-44;Premier League;19;26-déc;Leicester;Liverpool;Away;James Milner;71;NO;NO;NO;YES;YES;YES;DM;YES;NO
-45;Premier League;19;27-déc;Wolverhampton;Manchester City;Away;Raheem Sterling;25;NO;YES;NO;NO;NO;NO;W;NO;NO
-46;Premier League;20;28-déc;Watford;Aston Villa;Home;Troy Deeney;67;NO;NO;NO;YES;YES;NO;ST;YES;NO
-47;Premier League;20;28-déc;Norwich;Tottenham;Away;Harry Kane;83;YES;NO;NO;NO;YES;NO;ST;NO;YES
-48;Premier League;20;28-déc;West Ham;Leicester;Away;Demarai Gray;12;NO;YES;NO;NO;NO;NO;W;YES;NO
-49;Premier League;21;01-janv;West Ham;Bournemouth;Home;Mark Noble;35;NO;NO;NO;YES;YES;NO;DM;YES;NO
-50;Premier League;22;11-janv;Chelsea;Burnley;Home;Jorginho;27;NO;YES;NO;NO;YES;NO;DM;YES;NO
-51;Premier League;22;11-janv;Manchester United;Norwich;Home;Marcus Rashford;52;NO;NO;NO;YES;YES;NO;W;YES;NO
-52;Premier League;22;12-janv;Aston Villa;Manchester City;Home;Anwar El Ghazi;91;NO;NO;YES;NO;YES;NO;W;NO;YES
-53;Premier League;23;18-janv;Watford;Tottenham;Home;Troy Deeney;70;NO;YES;NO;NO;NO;NO;ST;NO;YES
-54;Premier League;23;18-janv;Norwich;Bournemouth;Home;Teemu Pukki;33;NO;YES;NO;NO;YES;NO;ST;YES;YES
-55;Premier League;23;18-janv;Southampton;Wolverhampton;Away;Raul Jimenez;65;YES;NO;NO;NO;YES;NO;ST;YES;NO
-56;Premier League;23;19-janv;Burnley;Leicester;Away;Jamie Vardy;68;NO;YES;NO;NO;NO;NO;ST;NO;NO
-57;Premier League;24;21-janv;Sheffield;Manchester City;Away;Gabriel Jesus;36;NO;YES;NO;NO;NO;NO;ST;YES;NO
-58;Premier League;24;21-janv;Chelsea;Arsenal;Home;Jorginho;28;NO;YES;NO;NO;YES;NO;DM;NO;NO
-59;Premier League;24;22-janv;Leicester;West Ham;Away;Mark Noble;50;NO;NO;YES;NO;YES;NO;DM;NO;NO
-60;Premier League;24;22-janv;Leicester;West Ham;Home;Ayoze Perez;81;NO;NO;NO;YES;YES;NO;W;YES;NO
-61;Premier League;24;22-janv;Tottenham;Norwich;Away;Teemu Pukki;70;YES;NO;NO;NO;YES;NO;ST;NO;NO
-62;Premier League;25;02-févr;Tottenham;Manchester City;Away;Ilkay Gundogan;40;NO;YES;NO;NO;NO;NO;DM;NO;NO
-63;Premier League;26;16-févr;Aston Villa;Tottenham;Away;Heung-Min Son;45;NO;YES;NO;NO;NO;NO;W;YES;NO
-64;Premier League;27;22-févr;Burnley;Bournemouth;Home;Jay Rodriguez;61;NO;NO;NO;YES;YES;NO;ST;YES;NO
-65;Premier League;27;22-févr;Leicester;Manchester City;Away;Sergio Aguero;62;NO;YES;NO;NO;NO;NO;ST;YES;NO
-66;Premier League;27;23-févr;Manchester United;Watford;Home;Bruno Fernandes;42;NO;YES;NO;NO;YES;NO;OM;YES;NO
-67;Premier League;28;17-juin;Manchester City;Arsenal;Home;Kevin de Bruyne;51;NO;NO;NO;YES;YES;NO;OM;YES;NO
-68;Premier League;29;07-mars;Southampton;Newcastle;Away;Matt Ritchie;45;NO;YES;NO;NO;NO;NO;W;YES;NO
-69;Premier League;29;07-mars;Burnley;Tottenham;Away;Dele Alli;50;YES;NO;NO;NO;YES;NO;OM;NO;YES
-70;Premier League;29;08-mars;Leicester;Aston Villa;Home;Jamie Vardy;63;NO;NO;NO;YES;YES;NO;ST;YES;NO
-71;Premier League;30;19-juin;Tottenham;Manchester United;Away;Bruno Fernandes;81;YES;NO;NO;NO;YES;NO;OM;NO;YES
-72;Premier League;30;22-juin;Manchester City;Burnley;Home;Ryad Mahrez;45;NO;NO;NO;YES;YES;NO;W;YES;NO
-73;Premier League;31;23-juin;Leicester;Brighton;Away;Neal Maupay;14;NO;YES;NO;NO;NO;NO;ST;NO;YES
-74;Premier League;31;25-juin;Chelsea;Manchester City;Home;Willian;78;NO;YES;NO;NO;YES;NO;W;YES;YES
-75;Premier League;32;01-juil;Everton;Leicester;Home;Gilfy Sigurdsson;16;NO;NO;NO;YES;YES;NO;OM;YES;NO
-76;Premier League;32;01-juil;West Ham;Chelsea;Away;Willian;42;NO;YES;NO;NO;YES;NO;W;NO;NO
-77;Premier League;32;02-juil;Manchester City;Liverpool;Home;Kevin de Bruyne;25;NO;YES;NO;NO;YES;NO;OM;YES;NO
-78;Premier League;33;04-juil;Manchester United;Bournemouth;Home;Marcus Rashford;35;NO;YES;NO;NO;YES;NO;W;YES;NO
-79;Premier League;33;04-juil;Manchester United;Bournemouth;Away;Joshua King;49;NO;NO;YES;NO;YES;NO;ST;NO;NO
-80;Premier League;33;04-juil;Chelsea;Watford;Home;Willian;43;NO;NO;NO;YES;YES;NO;W;YES;NO
-81;Premier League;34;09-juil;Everton;Southampton;Away;James Ward-Prowse;28;NO;YES;NO;NO;NO;NO;OM;NO;NO
-82;Premier League;34;09-juil;Aston Villa;Manchester United;Away;Bruno Fernandes;27;NO;YES;NO;NO;NO;NO;OM;YES;NO
-83;Premier League;35;11-juil;Watford;Newcastle;Home;Troy Deeney;52;YES;NO;NO;NO;YES;NO;ST;YES;NO
-84;Premier League;35;11-juil;Watford;Newcastle;Home;Troy Deeney;82;NO;YES;NO;NO;YES;NO;ST;YES;YES
-85;Premier League;35;12-juil;Wolverhampton;Everton;Home;Raul Jimenez;45;NO;YES;NO;NO;YES;NO;ST;YES;NO
-86;Premier League;35;12-juil;Bournemouth;Leicester;Home;Junior Stanislas;66;YES;NO;NO;NO;YES;YES;OM;YES;NO
-87;Premier League;36;15-juil;Burnley;Wolverhampton;Home;Chris Wood;96;YES;NO;NO;NO;YES;NO;ST;NO;YES
-88;Premier League;37;19-juil;Bournemouth;Southampton;Away;Danny Ings;59;NO;NO;NO;YES;NO;NO;ST;YES;NO
-89;Premier League;37;21-juil;Watford;Manchester City;Away;Raheem Sterling;40;NO;NO;NO;YES;NO;NO;W;YES;NO
-90;Premier League;37;22-juil;Manchester United;West Ham;Away;Michail Antonio;45;NO;YES;NO;NO;YES;NO;ST;NO;NO
-91;Premier League;38;26-juil;Arsenal;Watford;Home;Pierre-Emerick Aubameyang;5;NO;YES;NO;NO;YES;NO;ST;YES;NO
-92;Premier League;38;26-juil;Arsenal;Watford;Away;Troy Deeney;43;NO;NO;YES;NO;YES;NO;ST;NO;NO
-93;Premier League;38;26-juil;Everton;Bournemouth;Away;Joshua King;13;NO;YES;NO;NO;YES;NO;ST;YES;NO
-94;Premier League;38;26-juil;Leicester;Manchester United;Away;Bruno Fernandes;71;NO;YES;NO;NO;YES;NO;OM;YES;NO
-95;Premier League;38;26-juil;Southampton;Sheffield;Home;Danny Ings;84;NO;NO;NO;YES;YES;NO;ST;YES;YES
-96;Ligue 1;1;10/08/2019;Dijon;Saint-Etienne;Home;Julio Tavares;34;NO;NO;YES;NO;YES;NO;ST;NO;YES
-97;Ligue 1;1;10/08/2019;Montpellier;Rennes;Home;Andy Delort;61;YES;NO;NO;NO;NO;NO;ST;NO;NOT GOAL
-98;Ligue 1;1;10/08/2019;Brest;Toulouse;Home;Gaetan Charbonnier;84;NO;NO;NO;YES;NO;NO;ST;NO;NOT GOAL
-99;Ligue 1;1;11/08/2019;PSG;Nimes;Home;Edinson Cavani;24;NO;YES;NO;NO;YES;NO;ST;YES;NO
-100;Ligue 1;2;17/08/2019;Nantes;Marseille;Away;Dario Benedetto;34;NO;YES;NO;NO;NO;NO;ST;NO;NOT GOAL
-101;Ligue 1;2;17/08/2019;Metz;Monaco;Home;Habib Diallo;11;NO;YES;NO;NO;YES;NO;ST;YES;NO
-102;Ligue 1;2;17/08/2019;Nimes;Nice;Away;Wilan Cyprien;10;NO;YES;NO;NO;YES;NO;DM;YES;NO
-103;Ligue 1;2;17/08/2019;Nimes;Nice;Home;Renaud Ripart;45;NO;NO;YES;NO;YES;NO;ST;NO;YES
-104;Ligue 1;3;25/08/2019;Strasbourg;Rennes;Home;Jonas Martin;40;YES;NO;NO;NO;NO;NO;DM;NO;NOT GOAL
-105;Ligue 1;3;25/08/2019;PSG;Toulouse;Home;Angel Di Maria;71;NO;NO;NO;YES;NO;NO;W;YES;NOT GOAL
-106;Ligue 1;3;27/08/2019;Montpellier;Lyon;Home;Andy Delort;37;NO;YES;NO;NO;NO;NO;ST;YES;NOT GOAL
-107;Ligue 1;3;28/08/2019;Lille;Saint-Etienne;Home;Jonathan Bamba;69;NO;NO;NO;YES;YES;NO;W;YES;NO
-108;Ligue 1;3;28/08/2019;Nice;Marseille;Home;Wilan Cyprien;66;YES;NO;NO;NO;YES;NO;DM;NO;NO
-109;Ligue 1;3;28/08/2019;Nice;Marseille;Away;Dimitri Payet;73;NO;YES;NO;NO;YES;NO;OM;YES;YES
-110;Ligue 1;4;30/08/2019;Metz;PSG;Away;Angel Di Maria;11;NO;YES;NO;NO;YES;NO;W;YES;NO
-111;Ligue 1;4;01/09/2019;Reims;Lille;Home;Moussa Doumbia;73;NO;YES;NO;NO;YES;NO;W;YES;NO
-112;Ligue 1;4;01/09/2019;Reims;Lille;Away;Jonathan Bamba;93;NO;NO;YES;NO;NO;NO;W;NO;NOT GOAL
-113;Ligue 1;4;01/09/2019;Rennes;Nice;Away;Wilan Cyprien;63;YES;NO;NO;NO;YES;NO;DM;YES;NO
-114;Ligue 1;4;01/09/2019;Strasbourg;Monaco;Home;Kenny Lala;39;YES;NO;NO;NO;YES;NO;LD;NO;NO
-115;Ligue 1;5;15/09/2019;Saint-Etienne;Toulouse;Away;Max-Alain Gradel;15;NO;YES;NO;NO;YES;NO;W;NO;NO
-116;Ligue 1;5;15/09/2019;Monaco;Marseille;Home;Wissam Ben Yedder;17;NO;YES;NO;NO;YES;NO;ST;NO;NO
-117;Ligue 1;6;20/09/2019;Strasbourg;Nantes;Home;Ludovic Ajorque;89;NO;YES;NO;NO;YES;NO;ST;YES;YES
-118;Ligue 1;7;25/09/2019;Nantes;Rennes;Away;Mbaye Niang;35;NO;YES;NO;NO;NO;NO;ST;NO;NOT GOAL
-119;Ligue 1;7;25/09/2019;Nantes;Rennes;Home;Abdoulaye Toure;77;NO;YES;NO;NO;YES;NO;DM;YES;YES
-120;Ligue 1;8;28/09/2019;Monaco;Brest;Home;Islam Slimani;62;NO;NO;NO;YES;YES;NO;ST;YES;NO
-121;Ligue 1;8;28/09/2019;Metz;Toulouse;Home;Ibrahima Niane;91;NO;YES;NO;NO;YES;YES;ST;NO;NO
-122;Ligue 1;8;29/09/2019;Strasbourg;Montpellier;Away;Petar Skuletic;45;YES;NO;NO;NO;NO;NO;ST;NO;NOT GOAL
-123;Ligue 1;9;04/10/2019;Amiens;Marseille;Away;Dario Benedetto;23;YES;NO;NO;NO;YES;NO;ST;NO;NO
-124;Ligue 1;9;04/10/2019;Amiens;Marseille;Home;Sehrou Guirassy;41;NO;YES;NO;NO;YES;NO;ST;YES;NO
-125;Ligue 1;9;06/10/2019;Lille;Nimes;Away;Renaud Ripart;45;YES;NO;NO;NO;YES;NO;ST;NO;NO
-126;Ligue 1;10;19/10/2019;Toulouse;Lille;Home;Max-Alain Gradel;66;NO;NO;NO;YES;YES;NO;W;YES;NO
-127;Ligue 1;10;19/10/2019;Toulouse;Lille;Home;Max-Alain Gradel;82;NO;NO;NO;YES;NO;NO;W;YES;NOT GOAL
-128;Ligue 1;10;20/10/2019;Bordeaux;Saint-Etienne;Away;Denis Bouanga;93;NO;YES;NO;NO;YES;NO;W;YES;YES
-129;Ligue 1;10;20/10/2019;Marseille;Strasbourg;Home;Kevin Strootman;95;NO;NO;NO;YES;YES;NO;DM;YES;YES
-130;Ligue 1;11;26/10/2019;Lille;Bordeaux;Home;Yusuf Yazici;62;NO;NO;NO;YES;YES;NO;OM;YES;NO
-131;Ligue 1;11;26/10/2019;Lyon;Metz;Home;Moussa Dembele;33;NO;NO;NO;YES;YES;NO;ST;YES;YES
-132;Ligue 1;12;02/11/2019;Angers;Strasbourg;Home;Stephane Bahoken;26;NO;YES;NO;NO;YES;NO;ST;YES;YES
-133;Ligue 1;12;02/11/2019;Amiens;Brest;Home;Sehrou Guirassy;2;NO;YES;NO;NO;NO;NO;ST;YES;NOT GOAL
-134;Ligue 1;13;08/11/2019;Nice;Bordeaux;Away;Jimmy Briand;49;YES;NO;NO;NO;YES;NO;ST;NO;YES
-135;Ligue 1;13;10/11/2019;Rennes;Amiens;Home;Raphinha;79;NO;NO;NO;YES;YES;NO;W;YES;YES
-136;Ligue 1;13;10/11/2019;Marseille;Lyon;Home;Dimitri Payet;18;NO;YES;NO;NO;YES;NO;OM;YES;NO
-137;Ligue 1;14;23/11/2019;Lyon;Nice;Home;Moussa Dembele;28;NO;NO;NO;YES;YES;NO;ST;YES;NO
-138;Ligue 1;14;24/11/2019;Bordeaux;Monaco;Home;Nicolas de Preville;69;NO;YES;NO;NO;YES;NO;W;YES;YES
-139;Ligue 1;15;30/11/2019;Lille;Dijon;Home;Victor Osimhen;45;NO;YES;NO;NO;YES;NO;ST;YES;YES
-140;Ligue 1;15;01/12/2019;Nantes;Toulouse;Home;Abdoulaye Toure;43;NO;YES;NO;NO;YES;NO;DM;YES;NO
-141;Ligue 1;15;01/12/2019;Nantes;Toulouse;Away;Aaron Leya Iseka ;96;NO;NO;YES;NO;YES;YES;ST;NO;YES
-142;Ligue 1;15;15/01/2020;Monaco;PSG;Away;Neymar;45;NO;NO;NO;YES;YES;NO;W;YES;NO
-143;Ligue 1;16;03/12/2019;Angers;Marseille;Away;Dimitri Payet;41;NO;NO;NO;YES;YES;NO;OM;YES;YES
-144;Ligue 1;16;03/12/2019;Brest;Strasbourg;Home;Ferris Ngoma;94;NO;NO;NO;YES;YES;YES;W;YES;YES
-145;Ligue 1;16;04/12/2019;Saint-Etienne;Nice;Home;Denis Bouanga;11;NO;YES;NO;NO;YES;NO;W;YES;NO
-146;Ligue 1;16;04/12/2019;Toulouse;Monaco;Away;Wissam Ben Yedder;5;NO;YES;NO;NO;YES;NO;ST;YES;NO
-147;Ligue 1;16;04/12/2019;Toulouse;Monaco;Home;Yaya Sanogo;40;YES;NO;NO;NO;YES;NO;ST;NO;NO
-148;Ligue 1;16;04/12/2019;PSG;Nantes;Home;Neymar;85;NO;NO;NO;YES;YES;NO;W;YES;YES
-149;Ligue 1;16;15/01/2020;Amiens;Reims;Home;Moussa Konate;54;YES;NO;NO;NO;NO;NO;ST;NO;NOT GOAL
-150;Ligue 1;17;06/12/2019;Lille;Brest;Home;Jonathan Bamba;94;NO;NO;NO;YES;NO;NO;W;YES;NOT GOAL
-151;Ligue 1;17;06/12/2019;Nimes;Lyon;Away;Memphis Depay;16;NO;YES;NO;NO;YES;NO;W;YES;NO
-152;Ligue 1;17;07/12/2019;Nice;Metz;Home;Wilan Cyprien;41;NO;NO;NO;YES;YES;NO;DM;YES;NO
-153;Ligue 1;18;13/12/2019;Lille;Montpellier;Home;Jonathan Ikone;40;NO;YES;NO;NO;YES;NO;OM;YES;NO
-154;Ligue 1;18;13/12/2019;Lille;Montpellier;Home;Victor Osimhen;89;NO;NO;NO;YES;NO;NO;ST;YES;NOT GOAL
-155;Ligue 1;18;14/12/2019;Metz;Marseille;Home;Habib Diallo;52;NO;NO;NO;YES;NO;NO;ST;NO;NOT GOAL
-156;Ligue 1;18;14/12/2019;Brest;Nice;Home;Gaetan Charbonnier;35;NO;YES;NO;NO;NO;NO;ST;NO;NOT GOAL
-157;Ligue 1;18;15/12/2019;Saint-Etienne;PSG;Away;Neymar;62;NO;NO;NO;YES;NO;NO;W;YES;NOT GOAL
-158;Ligue 1;19;21/12/2019;Montpellier;Brest;Home;Teji Savanier;30;NO;NO;NO;YES;YES;NO;DM;YES;NO
-159;Ligue 1;19;21/12/2019;Strasbourg;Saint-Etienne;Away;Ryad Boudebouz;72;NO;NO;YES;NO;YES;NO;OM;NO;YES
-160;Ligue 1;19;21/12/2019;Reims;Lyon;Home;Mathieu Cafaro;44;YES;NO;NO;NO;YES;NO;W;NO;YES
-161;Ligue 1;19;21/12/2019;Reims;Lyon;Away;Moussa Dembele;83;NO;YES;NO;NO;NO;NO;ST;NO;NOT GOAL
-162;Ligue 1;20;11/01/2020;Angers;Nice;Away;Wilan Cyprien;45;YES;NO;NO;NO;YES;NO;DM;NO;YES
-163;Ligue 1;20;12/01/2020;PSG;Monaco;Home;Neymar;42;NO;YES;NO;NO;YES;NO;W;NO;NO
-164;Ligue 1;21;25/01/2020;Brest;Amiens;Away;Sehrou Guirassy;58;YES;NO;NO;NO;YES;NO;ST;NO;NO
-165;Ligue 1;21;25/01/2020;Saint-Etienne;Nimes;Home;Wahbi Khazri;34;NO;NO;NO;YES;YES;NO;OM;YES;NO
-166;Ligue 1;21;26/01/2020;Lille;PSG;Away;Neymar;52;NO;NO;NO;YES;YES;NO;W;YES;YES
-167;Ligue 1;22;31/01/2020;Rennes;Nantes;Home;Mbaye Niang;71;YES;NO;NO;NO;NO;NO;ST;YES;NOT GOAL
-168;Ligue 1;22;01/02/2020;Angers;Reims;Away;El Bilal Toure;38;YES;NO;NO;NO;YES;NO;ST;YES;NO
-169;Ligue 1;22;01/02/2020;Strasbourg;Lille;Away;Victor Osimhen;80;NO;YES;NO;NO;YES;NO;ST;YES;YES
-170;Ligue 1;23;05/02/2020;Montpellier;Metz;Away;Habib Diallo;21;YES;NO;NO;NO;NO;NO;ST;NO;NOT GOAL
-171;Ligue 1;23;05/02/2020;Brest;Bordeaux;Home;Christian Batocchio;44;YES;NO;NO;NO;NO;NO;DM;NO;NOT GOAL
-172;Ligue 1;24;09/02/2020;Strasbourg;Reims;Home;Kenny Lala;94;NO;NO;NO;YES;YES;NO;LD;YES;YES
-173;Ligue 1;25;15/02/2020;Toulouse;Nice;Home;Aaron Leya Iseka ;91;YES;NO;NO;NO;NO;NO;ST;NO;NOT GOAL
-174;Ligue 1;25;16/02/2020;Brest;Saint-Etienne;Away;Denis Bouanga;54;NO;NO;YES;NO;YES;NO;W;NO;NO
-175;Ligue 1;25;16/02/2020;Reims;Rennes;Home;El Bilal Toure;72;NO;YES;NO;NO;YES;NO;ST;YES;YES
-176;Ligue 1;25;16/02/2020;Lille;Marseille;Away;Valentin Rongier;60;YES;NO;NO;NO;NO;NO;DM;YES;NOT GOAL
-177;Ligue 1;26;21/02/2020;Metz;Lyon;Away;Maxwell Cornet;45;NO;YES;NO;NO;NO;NO;W;YES;NOT GOAL
-178;Ligue 1;26;21/02/2020;Metz;Lyon;Away;Moussa Dembele;45;NO;YES;NO;NO;YES;NO;ST;YES;NO
-179;Ligue 1;26;23/02/2020;Saint-Etienne;Reims;Away;Boulaye Dia;94;YES;NO;NO;NO;YES;NO;W;NO;YES
-180;Ligue 1;27;29/02/2020;Monaco;Reims;Home;Wissam Ben Yedder;31;NO;YES;NO;NO;YES;NO;ST;NO;NO
-181;Ligue 1;27;29/02/2020;Montpellier;Strasbourg;Home;Teji Savanier;57;NO;YES;NO;NO;YES;NO;DM;YES;NO
-182;Ligue 1;27;01/03/2020;Lyon;Saint-Etienne;Home;Moussa Dembele;96;NO;NO;NO;YES;YES;NO;ST;YES;YES
-183;Ligue 1;28;06/03/2020;Marseille;Amiens;Away;Sehrou Guirassy;83;NO;NO;YES;NO;YES;NO;ST;NO;NO
-184;Ligue 1;28;07/03/2020;Reims;Brest;Away;Alexandre Mendy;29;NO;YES;NO;NO;NO;NO;ST;NO;NOT GOAL
-185;Ligue 1;28;07/03/2020;Reims;Brest;Home;El Bilal Toure;37;NO;YES;NO;NO;YES;NO;ST;YES;YES
-186;Ligue 1;28;08/03/2020;Rennes;Montpellier;Home;Romain Del Castillo;73;NO;NO;NO;YES;YES;NO;ST;YES;NO
-187;Ligue 1;28;08/03/2020;Rennes;Montpellier;Home;Adrien Hunou;87;NO;NO;NO;YES;YES;NO;OM;YES;YES
-188;Champions league;1;17-sept;Lyon;Zenit;Home;Memphis Depay;51;YES;NO;NO;NO;YES;NO;W;NO;YES
-189;Champions league;1;17-sept;Chelsea;Valence;Home;Ross Barkley;87;YES;NO;NO;NO;NO;YES;OM;NO;YES
-190;Champions league;1;17-sept;Dortmund;Barcelone;Home;Marco Reus;57;NO;YES;NO;NO;NO;NO;OM;NO;YES
-191;Champions league;1;17-sept;Naples;Liverpool;Home;Dries Mertens;82;NO;YES;NO;NO;YES;NO;OM;YES;NO
-192;Champions league;1;18-sept;Olympiakos;Tottenham;Away;Harry Kane;26;NO;YES;NO;NO;YES;NO;ST;NO;NO
-193;Champions league;1;18-sept;Olympiakos;Tottenham;Home;Mathieu Valbuena;54;YES;NO;NO;NO;YES;NO;OM;NO;YES
-194;Champions league;2;01-oct;Atalanta;Shaktar Donetsk;Home;Josip Ilicic;16;NO;YES;NO;NO;NO;NO;ST;NO;NO
-195;Champions league;2;01-oct;Tottenham;Bayern;Home;Harry Kane;61;NO;NO;YES;NO;YES;NO;ST;NO;NO
-196;Champions league;2;02-oct;Valence;Ajax;Home;Dani Parejo;25;YES;NO;NO;NO;NO;NO;DM;NO;NO
-197;Champions league;3;22-oct;Shaktar Donetsk;Dinamo Zagreb;Away;Mislav Orsic;60;NO;YES;NO;NO;YES;NO;W;NO;NO
-198;Champions league;3;22-oct;Manchester City;Atalanta;Away;Ruslan Malinovskiy;28;NO;YES;NO;NO;YES;NO;OM;NO;NO
-199;Champions league;3;22-oct;Manchester City;Atalanta;Home;Sergio Aguero;38;NO;YES;NO;NO;YES;NO;ST;YES;NO
-200;Champions league;3;23-oct;RB Salzbourg;Naples;Home;Erling Haaland;40;YES;NO;NO;NO;YES;NO;ST;NO;NO
-201;Champions league;3;23-oct;Inter Milan;Dortmund;Home;Lautaro Martinez;82;NO;NO;NO;YES;NO;NO;ST;YES;NO
-202;Champions league;4;05-nov;Naples;RB Salzbourg;Away;Erling Haaland;11;NO;YES;NO;NO;YES;NO;ST;NO;NO
-203;Champions league;4;05-nov;Chelsea;Ajax;Home;Jorginho;4;YES;NO;NO;NO;YES;NO;DM;NO;NO
-204;Champions league;4;05-nov;Chelsea;Ajax;Home;Jorginho;71;NO;NO;YES;NO;YES;NO;DM;NO;NO
-205;Champions league;4;05-nov;Valence;Lille;Home;Dani Parejo;66;YES;NO;NO;NO;YES;NO;DM;YES;NO
-206;Champions league;4;06-nov;PSG;Club Bruges;Away;Mbaye Diagne;76;YES;NO;NO;NO;NO;YES;ST;NO;YES
-207;Champions league;4;06-nov;Real Madrid;Galatasaray;Home;Sergio Ramos;14;NO;NO;NO;YES;YES;NO;CB;YES;NO
-208;Champions league;4;06-nov;Dinamo Zagreb;Shaktar Donetsk;Away;Mateus Martins;98;YES;NO;NO;NO;YES;YES;DM;NO;YES
-209;Champions league;4;06-nov;Atalanta;Manchester City;Away;Gabriel Jesus;43;NO;NO;NO;YES;NO;NO;ST;NO;NO
-210;Champions league;5;26-nov;Etoile Rouge Belgrade;Bayern Munich;Away;Robert Lewandowski;53;NO;NO;NO;YES;YES;NO;ST;YES;NO
-211;Champions league;5;26-nov;Atalanta;Dinamo Zagreb;Home;Luis Muriel;27;NO;YES;NO;NO;YES;NO;ST;YES;NO
-212;Champions league;5;27-nov;Valence;Chelsea;Home;Dani Parejo;64;YES;NO;NO;NO;NO;NO;DM;NO;NO
-213;Champions league;5;27-nov;RB Leipzig;Benfica;Home;Emil Forsberg;90;NO;NO;YES;NO;YES;NO;OM;NO;NO
-214;Champions league;5;27-nov;Slavia Prague;Inter Milan;Home;Tomas Soucek;37;YES;NO;NO;NO;YES;NO;DM;NO;NO
-215;Champions league;6;10-déc;Naples;Genk;Home;Arkadiusz Milik;38;NO;NO;NO;YES;YES;NO;ST;YES;NO
-216;Champions league;6;10-déc;Naples;Genk;Home;Dries Mertens;74;NO;NO;NO;YES;YES;NO;OM;YES;YES
-217;Champions league;6;10-déc;Benfica;Zenit;Home;Pizzi;58;NO;NO;NO;YES;YES;NO;W;YES;NO
-218;Champions league;6;10-déc;Lyon;RB Leipzig;Away;Emil Forsberg;9;NO;YES;NO;NO;YES;NO;OM;NO;NO
-219;Champions league;6;10-déc;Lyon;RB Leipzig;Away;Timo Werner;33;NO;NO;NO;YES;YES;NO;ST;NO;NO
-220;Champions league;6;11-déc;PSG;Galatasaray;Home;Edinson Cavani;84;NO;NO;NO;YES;YES;YES;ST;YES;YES
-221;Champions league;6;11-déc;Olympiakos;Etoile Rouge Belgrade;Away;Tomane;42;NO;YES;NO;NO;NO;NO;ST;NO;NO
-222;Champions league;6;11-déc;Olympiakos;Etoile Rouge Belgrade;Home;Yusuf El-Arabi;87;NO;YES;NO;NO;YES;NO;ST;YES;YES
-223;Champions league;6;11-déc;Atletico Madrid;Lokomotiv Moscou;Home;Kieran Trippier;2;NO;YES;NO;NO;NO;NO;LD;YES;NO
-224;Champions league;6;11-déc;Atletico Madrid;Lokomotiv Moscou;Home;Joao Felix;17;NO;YES;NO;NO;YES;NO;ST;YES;NO
-225;Champions league;Ro8;19-févr;Tottenham;RB Leipzig;Away;Timo Werner;58;NO;YES;NO;NO;YES;NO;W;YES;YES
-226;Champions league;Ro8;26-févr;Real Madrid;Manchester City;Away;Kevin de Bruyne;83;NO;YES;NO;NO;YES;NO;OM;YES;YES
-227;Champions league;Ro8;10-mars;Valence;Atalanta;Away;Josip Ilicic;3;NO;YES;NO;NO;YES;NO;ST;YES;NO
-228;Champions league;Ro8;10-mars;Valence;Atalanta;Away;Josip Ilicic;43;NO;YES;NO;NO;YES;NO;ST;YES;NO
-229;Champions league;Ro8;07-août;Juventus;Lyon;Away;Memphis Depay;12;NO;YES;NO;NO;YES;NO;ST;NO;NO
-230;Champions league;Ro8;07-août;Juventus;Lyon;Home;Cristiano Ronaldo;43;YES;NO;NO;NO;YES;NO;ST;YES;NO
-231;Champions league;Ro8;08-août;Bayern Munich;Chelsea;Home;Robert Lewandowski;10;NO;YES;NO;NO;YES;NO;ST;YES;NO
-232;Champions league;Ro8;08-août;Barcelone;Naples;Home;Luis Suarez;45;NO;NO;NO;YES;YES;NO;ST;YES;NO
-233;Champions league;Ro8;08-août;Barcelone;Naples;Away;Lorenzo Insigne;45;NO;NO;YES;NO;YES;NO;W;NO;YES
-234;Bundesliga;1;16/08/2019;Bayern Munich;Herta Berlin;Home;Robert Lewandowski;60;YES;NO;NO;NO;YES;NO;ST;NO;YES
-235;Bundesliga;1;17/08/2019;Fribourg;Mainz;Home;Luca Waldschimdt;87;NO;NO;NO;YES;YES;NO;ST;YES;YES
-236;Bundesliga;2;24/08/2019;Paderborn;Fribourg;Away;Luca Waldschimdt;21;YES;NO;NO;NO;YES;NO;ST;YES;NO
-237;Bundesliga;2;24/08/2019;Schalke 04;Bayern Munich;Away;Robert Lewandowski;20;NO;YES;NO;NO;YES;NO;ST;YES;NO
-238;Bundesliga;2;25/08/2019;Herta Berlin;Wolfsburg;Away;Wout Weghorst;9;NO;YES;NO;NO;YES;NO;ST;YES;NO
-239;Bundesliga;4;14/09/2019;Union Berlin;Werder Breme;Away;Davy Klaassen;5;NO;YES;NO;NO;YES;NO;OM;YES;NO
-240;Bundesliga;4;14/09/2019;Union Berlin;Werder Breme;Home;Sebastian Andersson;14;YES;NO;NO;NO;YES;NO;ST;NO;NO
-241;Bundesliga;4;14/09/2019;Union Berlin;Werder Breme;Away;Davy Klaassen;55;NO;YES;NO;NO;NO;NO;OM;YES;NO
-242;Bundesliga;4;14/09/2019;RB Leipzig;Bayern Munich;Home;Emil Forsberg;45;YES;NO;NO;NO;YES;NO;OM;NO;YES
-243;Bundesliga;5;21-sept;Bayern Munich;Cologne;Home;Philippe Coutinho;62;NO;NO;NO;YES;YES;NO;OM;YES;NO
-244;Bundesliga;6;28/09/2019;RB Leipzig;Schalke 04;Away;Amine Harit;43;NO;NO;NO;YES;YES;NO;OM;YES;NO
-245;Bundesliga;6;29/09/2019;Dusseldorf;Fribourg;Away;Lucas Holer;64;NO;YES;NO;NO;NO;NO;W;YES;NO
-246;Bundesliga;7;04/10/2019;Herta Berlin;Dusseldorf;Away;Rouwen Hennings;32;NO;YES;NO;NO;YES;NO;ST;NO;NO
-247;Bundesliga;7;05/10/2019;Paderborn;Mainz;Away;Daniel Brosinski;32;NO;YES;NO;NO;YES;NO;LD;YES;YES
-248;Bundesliga;7;05/10/2019;Paderborn;Mainz;Home;Jamilu Collins;79;YES;NO;NO;NO;NO;NO;LD;NO;YES
-249;Bundesliga;7;06/10/2019;Eintracht Francfort;Werder Breme;Away;Milot Rashica;91;YES;NO;NO;NO;YES;NO;W;NO;YES
-250;Bundesliga;8;18/10/2019;Eintracht Francfort;Leverkusen;Home;Goncalo Paciencia;16;NO;NO;NO;YES;YES;NO;ST;YES;NO
-251;Bundesliga;9;26/10/2019;Bayern Munich;Union Berlin;Away;Sebastian Andersson;58;NO;NO;YES;NO;NO;NO;ST;NO;NO
-252;Bundesliga;9;26/10/2019;Bayern Munich;Union Berlin;Away;Sebastian Polter;86;NO;NO;YES;NO;YES;YES;ST;NO;YES
-253;Bundesliga;10;02/11/2019;Dortmund;Wolfsburg;Home;Mario Gotze;88;NO;NO;NO;YES;YES;YES;OM;YES;YES
-254;Bundesliga;10;02/11/2019;Union Berlin;Herta Berlin;Home;Sebastian Polter;87;NO;YES;NO;NO;YES;YES;ST;YES;YES
-255;Bundesliga;10;03/11/2019;Dusseldorf;Cologne;Home;Rouwen Hennings;38;NO;YES;NO;NO;YES;NO;ST;YES;NO
-256;Bundesliga;10;03/11/2019;Augsbourg;Schalke 04;Home;Alfred Finnbogason;60;NO;YES;NO;NO;YES;NO;ST;NO;NO
-257;Bundesliga;11;08/11/2019;Cologne;Hoffenheim;Away;Jurgen Locadia;98;NO;YES;NO;NO;YES;NO;ST;YES;YES
-258;Bundesliga;11;09/11/2019;Herta Berlin;RB Leipzig;Away;Timo Werner;38;YES;NO;NO;NO;YES;NO;ST;YES;NO
-259;Bundesliga;11;09/11/2019;Schalke 04;Dusseldorf;Away;Rouwen Hennings;62;YES;NO;NO;NO;YES;NO;ST;NO;NO
-260;Bundesliga;11;09/11/2019;Paderborn;Augsbourg;Home;Klaus Gjasula;7;NO;YES;NO;NO;NO;NO;DM;NO;NO
-261;Bundesliga;11;10/11/2019;Borussia Monchen;Werder Breme;Away;Davy Klaassen;53;NO;NO;YES;NO;NO;NO;OM;NO;NO
-262;Bundesliga;12;23-nov;RB Leipzig;Cologne;Home;Emil Forsberg;32;NO;NO;NO;YES;YES;NO;OM;YES;NO
-263;Bundesliga;13;29/11/2019;Schalke 04;Union Berlin;Away;Marcus Ingvartsen;36;YES;NO;NO;NO;YES;NO;W;NO;NO
-264;Bundesliga;13;30-nov;Cologne;Augsbourg;Away;Andre Hahn;9;NO;YES;NO;NO;NO;NO;W;NO;NO
-265;Bundesliga;13;01/12/2019;Borussia Monchen;Fribourg;Home;Breel Embolo;49;NO;NO;NO;YES;NO;NO;ST;YES;NO
-266;Bundesliga;13;01/12/2019;Wolfsburg;Werder Breme;Away;Milot Rashica;13;NO;YES;NO;NO;YES;NO;W;YES;NO
-267;Bundesliga;14;07/12/2019;RB Leipzig;Hoffenheim;Home;Timo Werner;52;NO;NO;NO;YES;YES;NO;ST;YES;NO
-268;Bundesliga;14;07/12/2019;Borussia Monchen;Bayern Munich;Home;Rami Bensebaini;92;NO;YES;NO;NO;YES;NO;LD;YES;YES
-269;Bundesliga;14;07/12/2019;Augsbourg;Mainz;Home;Florian Niederlechner;65;NO;YES;NO;NO;YES;NO;OM;YES;YES
-270;Bundesliga;15;13/12/2019;Hoffenheim;Augsbourg;Away;Philipp Max;51;NO;YES;NO;NO;YES;NO;W;YES;NO
-271;Bundesliga;15;14/12/2019;Dusseldorf;RB Leipzig;Away;Timo Werner;58;NO;NO;NO;YES;YES;NO;ST;YES;NO
-272;Bundesliga;16;18/12/2019;Borussia Monchen;Paderborn;Home;Lars Stindl;67;NO;NO;NO;YES;YES;NO;ST;YES;YES
-273;Bundesliga;17;21/12/2019;Schalke 04;Fribourg;Away;Nils Petersen;54;YES;NO;NO;NO;YES;NO;ST;NO;NO
-274;Bundesliga;17;21/12/2019;Schalke 05;Fribourg;Away;Vincenzo Grifo;67;NO;YES;NO;NO;YES;NO;W;NO;NO
-275;Bundesliga;18;19/01/2020;Herta Berlin;Bayern Munich;Away;Robert Lewandowski;73;NO;NO;NO;YES;YES;NO;ST;YES;NO
-276;Bundesliga;19;25-janv;Fribourg;Paderborn;Away;Abdelhamid Sabiri;84;NO;NO;NO;YES;YES;NO;DM;YES;YES
-277;Bundesliga;19;26-janv;Leverkusen;Dusseldorf;Home;Lucas Alario;89;NO;NO;NO;YES;YES;YES;W;YES;YES
-278;Bundesliga;20;01-févr;Dortmund;Union Berlin;Home;Marco Reus;68;NO;NO;NO;YES;YES;NO;W;YES;NO
-279;Bundesliga;21;08-févr;Herta Berlin;Mainz;Away;Robin Quaison;94;NO;NO;NO;YES;YES;NO;OM;YES;YES
-280;Bundesliga;21;08-févr;Fribourg;Hoffenheim;Home;Luca Waldschimdt;40;NO;YES;NO;NO;YES;NO;ST;YES;YES
-281;Bundesliga;22;15-févr;Hoffenheim;Wolfsburg;Away;Wout Weghorst;18;NO;YES;NO;NO;YES;NO;ST;YES;NO
-282;Bundesliga;22;15-févr;Hoffenheim;Wolfsburg;Away;Wout Weghorst;52;NO;YES;NO;NO;YES;NO;ST;YES;NO
-283;Bundesliga;22;15-févr;Hoffenheim;Wolfsburg;Home;Andrej Kramaric;60;YES;NO;NO;NO;YES;NO;ST;NO;NO
-284;Bundesliga;23;22-févr;Borussia Monchen;Hoffenheim;Home;Alassane Plea;75;NO;NO;NO;YES;NO;NO;W;NO;NO
-285;Bundesliga;24;28-févr;Dusseldorf;Herta Berlin;Away;Krzysztof Piatek;75;YES;NO;NO;NO;YES;NO;ST;NO;YES
-286;Bundesliga;26;16-mai;Eintracht Francfort;Borussia Monchen;Away;Rami Bensebaini;73;NO;NO;NO;YES;YES;NO;LD;YES;NO
-287;Bundesliga;26;17-mai;Cologne;Mainz;Home;Mark Uth;6;NO;YES;NO;NO;YES;NO;OM;NO;NO
-288;Bundesliga;26;17-mai;Union Berlin;Bayern Munich;Away;Robert Lewandowski;40;NO;YES;NO;NO;YES;NO;ST;YES;NO
-289;Bundesliga;27;23-mai;Borussia Monchen;Leverkusen;Away;Kai Havertz;58;NO;YES;NO;NO;YES;NO;OM;YES;NO
-290;Bundesliga;27;24-mai;Cologne;Dusseldorf;Home;Mark Uth;58;YES;NO;NO;NO;NO;NO;OM;NO;NO
-291;Bundesliga;28;27-mai;RB Leipzig;Herta Berlin;Away;Krzysztof Piatek;82;YES;NO;NO;NO;YES;YES;ST;NO;YES
-292;Bundesliga;28;27-mai;Hoffenheim;Cologne;Away;Mark Uth;77;NO;NO;YES;NO;NO;NO;OM;NO;YES
-293;Bundesliga;29;30-mai;Wolfsburg;Eintracht Francfort;Away;Andre Silva;27;NO;YES;NO;NO;YES;NO;ST;YES;NO
-294;Bundesliga;29;30-mai;Mainz;Hoffenheim;Away;Sven Zuber;27;NO;YES;NO;NO;NO;NO;LD;YES;NO
-295;Bundesliga;29;31-mai;Paderborn;Dortmund;Home;Uwe Hunemeier;72;NO;NO;YES;NO;YES;NO;CB;NO;NO
-296;Bundesliga;30;06-juin;Dusseldorf;Hoffenheim;Home;Rouwen Hennings;76;YES;NO;NO;NO;YES;NO;ST;NO;YES
-297;Bundesliga;30;07-juin;Augsbourg;Cologne;Home;Florian Niederlechner;27;NO;YES;NO;NO;NO;NO;ST;NO;NO
-298;Bundesliga;31;13-juin;Wolfsburg;Fribourg;Home;Wout Weghorst;26;NO;NO;NO;YES;YES;NO;ST;NO;NO
-299;Bundesliga;31;13-juin;Paderborn;Werder Breme;Away;Milot Rashica;19;NO;YES;NO;NO;NO;NO;ST;YES;NO
-300;Bundesliga;31;14-juin;Schalke 04;Leverkusen;Home;Daniel Caligiuri;51;NO;YES;NO;NO;YES;NO;OM;NO;NO
-301;Bundesliga;32;16-juin;Fribourg;Herta Berlin;Away;Vedad Ibisevic;66;YES;NO;NO;NO;YES;NO;ST;NO;NO
-302;Bundesliga;32;17-juin;Dortmund;Mainz;Away;Jean-Philippe Mateta;49;NO;NO;NO;YES;YES;NO;ST;YES;YES
-303;Bundesliga;33;20-juin;Cologne;Eintracht Francfort;Home;Florian Kainz;45;NO;YES;NO;NO;YES;NO;OM;NO;NO
-304;Bundesliga;33;20-juin;Paderborn;Borussia Monchen;Away;Lars Stindl;55;NO;YES;NO;NO;YES;NO;OM;YES;NO
-305;Bundesliga;34;27-juin;Dortmund;Hoffenheim;Away;Andrej Kramaric;50;NO;NO;NO;YES;YES;NO;OM;YES;YES
-306;Bundesliga;34;27-juin;Wolfsburg;Bayern Munich;Away;Robert Lewandowski;72;NO;NO;NO;YES;YES;NO;ST;YES;NO
-307;SERIE A;1;24/08/2019;Fiorentina;Naples;Home;Erick Pulgar;9;NO;YES;NO;NO;YES;NO;DM;NO;NO
-308;SERIE A;1;24/08/2019;Fiorentina;Naples;Away;Lorenzo Insigne;42;NO;YES;NO;NO;YES;NO;W;YES;NO
-309;SERIE A;1;25/08/2019;Cagliari;Brescia;Away;Alfredo Donnaruma;54;NO;YES;NO;NO;YES;NO;ST;YES;YES
-310;SERIE A;1;25/08/2019;Verona;Bologne;Away;Nicola Sansone;15;NO;YES;NO;NO;YES;NO;W;NO;NO
-311;SERIE A;1;25/08/2019;Roma;Genoa;Away;Domenico Criscito;43;YES;NO;NO;NO;YES;NO;CB;NO;NO
-312;SERIE A;2;01/09/2019;Lazio;Roma;Away;Aleksandar Kolarov;15;NO;YES;NO;NO;YES;NO;LD;NO;NO
-313;SERIE A;2;01/09/2019;Cagliari;Inter Milan;Away;Romelu Lukaku;72;NO;YES;NO;NO;YES;NO;ST;YES;YES
-314;SERIE A;2;01/09/2019;Genoa ;Fiorentina;Away;Erick Pulgar;76;NO;NO;YES;NO;YES;NO;DM;NO;YES
-315;SERIE A;2;01/09/2019;Sassuolo;Samp;Away;Fabio Quagliarella;;NO;NO;YES;NO;YES;NO;ST;NO;YES
-316;SERIE A;3;15/09/2019;Genoa ;Atalanta;Away;Luis Muriel;64;NO;YES;NO;NO;YES;YES;ST;YES;NO
-317;SERIE A;3;15/09/2019;Genoa ;Atalanta;Home;Domenico Criscito;91;YES;NO;NO;NO;YES;NO;CB;NO;NO
-318;SERIE A;3;15/09/2019;SPAL;Lazio;Away;Ciro Immobile;17;NO;YES;NO;NO;YES;NO;ST;NO;NO
-319;SERIE A;3;15/09/2019;Verona;AC Milan;Away;Kzrysztof Piatek;68;NO;YES;NO;NO;YES;NO;ST;YES;YES
-320;SERIE A;3;16/09/2019;Torino;Lecce;Home;Andrea Belotti;58;YES;NO;NO;NO;YES;NO;ST;NO;NO
-321;SERIE A;4;21/09/2019;Juventus;Verona;Away;Samuel Di Carmine;20;NO;YES;NO;NO;NO;NO;ST;NO;NO
-322;SERIE A;4;21/09/2019;Juventus;Verona;Home;Cristiano Ronaldo;49;NO;YES;NO;NO;YES;NO;W;YES;YES
-323;SERIE A;4;22/09/2019;Bologne;Roma;Home;Nicola Sansone;54;YES;NO;NO;NO;YES;NO;W;NO;NO
-324;SERIE A;4;22/09/2019;Lecce;Naples;Away;Lorenzo Insigne;38;NO;NO;NO;YES;NO;NO;W;YES;NO
-325;SERIE A;4;22/09/2019;Lecce;Naples;Away;Lorenzo Insigne;40;NO;NO;NO;YES;YES;NO;W;YES;NO
-326;SERIE A;4;22/09/2019;Lecce;Naples;Home;Marco Mancosu;61;NO;NO;YES;NO;YES;NO;ST;NO;NO
-327;SERIE A;5;25/09/2019;Genoa ;Bologne;Away;Nicola Sansone;78;NO;YES;NO;NO;NO;NO;W;NO;YES
-328;SERIE A;5;25/09/2019;Parme;Sassuolo;Home;Roberto Inglese;74;NO;YES;NO;NO;NO;NO;ST;YES;NO
-329;SERIE A;5;25/09/2019;SPAL;Lecce;Away;Marco Mancosu;11;NO;YES;NO;NO;YES;NO;ST;YES;NO
-330;SERIE A;5;25/09/2019;SPAL;Lecce;Away;Marco Mancosu;73;NO;NO;NO;YES;YES;NO;ST;YES;YES
-331;SERIE A;5;26/09/2019;Torino;AC Milan;Away;Kzrysztof Piatek;18;NO;YES;NO;NO;YES;NO;ST;NO;NO
-332;SERIE A;6;29/09/2019;Lecce;Roma;Away;Aleksandar Kolarov;80;NO;NO;NO;YES;NO;NO;LD;YES;YES
-333;SERIE A;6;29/09/2019;AC Milan;Fiorentina;Away;Erick Pulgar;14;NO;YES;NO;NO;YES;NO;DM;YES;NO
-334;SERIE A;6;29/09/2019;AC Milan;Fiorentina;Away;Federico Chiesa;70;NO;NO;NO;YES;NO;NO;W;YES;NO
-335;SERIE A;6;30/09/2019;Parme;Torino;Home;Gervinho;31;NO;YES;NO;NO;NO;NO;W;YES;NO
-336;SERIE A;6;30/09/2019;Parme;Torino;Away;Andrea Belotti;43;NO;YES;NO;NO;YES;NO;ST;NO;NO
-337;SERIE A;7;05/10/2019;Genoa ;AC Milan;Away;Franck Kessie;57;NO;YES;NO;NO;YES;NO;DM;YES;YES
-338;SERIE A;7;05/10/2019;Genoa ;AC Milan;Home;Lars Schone;93;YES;NO;NO;NO;NO;NO;OM;NO;YES
-339;SERIE A;7;06/10/2019;Bologne;Lazio;Away;Joaquin Correa;88;NO;YES;NO;NO;NO;NO;ST;NO;YES
-340;SERIE A;7;06/10/2019;Roma;Cagliari;Away;Joao Pedro;26;NO;YES;NO;NO;YES;NO;OM;NO;NO
-341;SERIE A;7;06/10/2019;Inter Milan;Juventus;Home;Lautaro Martinez;18;YES;NO;NO;NO;YES;NO;ST;NO;NO
-342;SERIE A;8;19/10/2019;Lazio;Atalanta;Home;Ciro Immobile;69;NO;NO;YES;NO;YES;NO;ST;NO;NO
-343;SERIE A;8;19/10/2019;Lazio;Atalanta;Home;Ciro Immobile;93;YES;NO;NO;NO;YES;NO;ST;NO;YES
-344;SERIE A;8;20/10/2019;Sassuolo;Inter Milan;Away;Romelu Lukaku;45;NO;NO;NO;YES;YES;NO;ST;YES;NO
-345;SERIE A;8;20/10/2019;Sassuolo;Inter Milan;Away;Lautaro Martinez;71;NO;NO;NO;YES;YES;NO;ST;YES;NO
-346;SERIE A;8;20/10/2010;AC Milan;Lecce;Away;Khouma Babacar;62;YES;NO;NO;NO;NO;NO;ST;NO;NO
-347;SERIE A;9;26/10/2019;Lecce;Juventus;Away;Paulo Dybala;50;NO;YES;NO;NO;YES;NO;OM;NO;NO
-348;SERIE A;9;26/10/2019;Lecce;Juventus;Home;Marco Mancosu;56;YES;NO;NO;NO;YES;NO;OM;NO;YES
-349;SERIE A;9;27/10/2019;Atalanta;Udinese;Home;Luis Muriel;35;NO;YES;NO;NO;YES;NO;ST;YES;NO
-350;SERIE A;9;27/10/2019;Atalanta;Udinese;Home;Luis Muriel;75;NO;NO;NO;YES;YES;NO;ST;YES;NO
-351;SERIE A;9;27/10/2019;Fiorentina;Lazio;Away;Felipe Caicedo;97;NO;NO;NO;YES;NO;YES;ST;YES;YES
-352;SERIE A;10;30/10/2019;Cagliari;Bologne;Away;Federico Santander;23;NO;YES;NO;NO;YES;NO;ST;NO;NO
-353;SERIE A;10;30/10/2019;Juventus;Genoa;Home;Cristiano Ronaldo;96;NO;YES;NO;NO;YES;NO;ST;YES;YES
-354;SERIE A;10;30/10/2019;Lazio;Torino;Home;Ciro Immobile;70;NO;NO;NO;YES;YES;NO;ST;YES;NO
-355;SERIE A;10;30/10/2019;Udinese;Roma;Away;Aleksandar Kolarov;65;NO;NO;NO;YES;YES;NO;LD;YES;YES
-356;SERIE A;11;02/11/2019;Roma;Naples;Home;Aleksandar Kolarov;26;NO;NO;NO;YES;NO;NO;LD;YES;NO
-357;SERIE A;11;02/11/2019;Roma;Naples;Home;Jordan Veretout;55;NO;NO;NO;YES;YES;NO;DM;YES;NO
-358;SERIE A;11;02/11/2019;Bologne;Inter Milan;Away;Romelu Lukaku;91;NO;YES;NO;NO;YES;NO;ST;YES;YES
-359;SERIE A;12;09/11/2019;Brescia;Torino;Away;Andrea Belotti;17;NO;YES;NO;NO;YES;NO;ST;YES;NO
-360;SERIE A;12;09/11/2019;Brescia;Torino;Away;Andrea Belotti;26;NO;NO;NO;YES;YES;NO;ST;YES;NO
-361;SERIE A;12;09/11/2019;Inter Milan;Verona;Away;Valerio Verre;19;NO;YES;NO;NO;YES;NO;OM;NO;NO
-362;SERIE A;12;10/11/2019;Lazio;Lecce;Away;Khouma Babacar;67;YES;NO;NO;NO;NO;NO;ST;NO;NO
-363;SERIE A;12;10/11/2019;Lazio;Lecce;Home;Ciro Immobile;77;NO;NO;NO;YES;YES;NO;ST;YES;NO
-364;SERIE A;12;10/11/2019;Udinese;SPAL;Away;Andrea Petagna;98;NO;YES;NO;NO;NO;YES;ST;NO;YES
-365;SERIE A;13;23/11/2019;Atalanta;Juventus;Home;Musa Barrow;17;NO;YES;NO;NO;NO;NO;ST;NO;NO
-366;SERIE A;13;24/11/2019;Sampdoria;Udinese;Home;Gaston Ramirez;75;NO;YES;NO;NO;YES;NO;OM;YES;YES
-367;SERIE A;13;25/11/2019;Lecce;Cagliari;Away;Joao Pedro;30;NO;YES;NO;NO;YES;NO;ST;NO;NO
-368;SERIE A;13;25/11/2019;Lecce;Cagliari;Home;Gianluca Lapadula;83;NO;NO;YES;NO;YES;NO;ST;NO;NO
-369;SERIE A;13;25/11/2019;SPAL;Genoa;Home;Andrea Petagna;55;NO;YES;NO;NO;YES;NO;ST;NO;NO
-370;SERIE A;14;01/12/2019;Juventus;Sassuolo;Home;Cristiano Ronaldo;68;YES;NO;NO;NO;YES;NO;ST;NO;YES
-371;SERIE A;14;01/12/2019;Lazio;Udinese;Home;Ciro Immobile;36;NO;NO;NO;YES;YES;NO;ST;YES;NO
-372;SERIE A;14;01/12/2019;Lazio;Udinese;Home;Luis Alberto;45;NO;NO;NO;YES;YES;NO;OM;YES;YES
-373;SERIE A;14;01/12/2019;Verona;Roma;Away;Diego Perotti;45;NO;YES;NO;NO;YES;YES;W;YES;NO
-374;SERIE A;14;02/12/2019;Cagliari;Sampdoria;Away;Fabio Quagliarella;38;NO;YES;NO;NO;YES;NO;ST;NO;NO
-375;SERIE A;15;07/12/2019;Atalanta;Verona;Home;Luis Muriel;64;YES;NO;NO;NO;YES;NO;ST;YES;NO
-376;SERIE A;15;07/12/2019;Lazio;Juventus;Home;Ciro Immobile;79;NO;NO;NO;YES;NO;NO;ST;YES;NO
-377;SERIE A;15;08/12/2019;Lecce;Genoa;Away;Domenico Criscito;45;NO;NO;NO;YES;YES;NO;CB;NO;NO
-378;SERIE A;15;08/12/2019;Sassuolo;Cagliari;Home;Domenico Berardi;65;NO;NO;NO;YES;NO;NO;W;NO;NO
-379;SERIE A;15;08/12/2019;SPAL;Brescia;Home;Andrea Petagna;74;YES;NO;NO;NO;NO;NO;ST;NO;YES
-380;SERIE A;15;08/12/2019;Sampdoria;Parme;Home;Fabio Quagliarella;77;YES;NO;NO;NO;NO;NO;ST;NO;YES
-381;SERIE A;15;08/12/2019;Bologne;AC Milan;Away;Kzrysztof Piatek;15;NO;YES;NO;NO;YES;NO;ST;YES;NO
-382;SERIE A;15;08/12/2019;Bologne;AC Milan;Home;Nicola Sansone;84;NO;NO;YES;NO;YES;NO;W;NO;YES
-383;SERIE A;16;15/12/2019;Verona;Torino;Home;Gianpaolo Pazzini;69;NO;NO;YES;NO;YES;YES;OM;NO;NO
-384;SERIE A;16;15/12/2019;Roma;SPAL;Away;Andrea Petagna;44;NO;YES;NO;NO;YES;NO;ST;NO;NO
-385;SERIE A;16;15/12/2019;Roma;SPAL;Home;Diego Perotti;66;NO;YES;NO;NO;YES;NO;W;YES;NO
-386;SERIE A;17;21/12/2019;Inter Milan;Genoa;Home;Sebastiano Esposito;64;NO;NO;NO;YES;YES;NO;ST;YES;NO
-387;SERIE A;18;05-janv;Brescia;Lazio;Away;Ciro Immobile;42;YES;NO;NO;NO;YES;NO;ST;YES;NO
-388;SERIE A;18;05-janv;Genoa ;Sassuolo;Home;Domenico Criscito;29;NO;YES;NO;NO;YES;NO;CB;YES;NO
-389;SERIE A;18;05-janv;Roma;Torino;Away;Andrea Belotti;86;NO;NO;NO;YES;YES;NO;ST;YES;YES
-390;SERIE A;18;06-janv;Juventus;Cagliari;Home;Cristiano Ronaldo;67;NO;NO;NO;YES;YES;NO;ST;YES;NO
-391;SERIE A;19;11-janv;Inter Milan;Atalanta;Away;Luis Muriel;88;NO;YES;NO;NO;NO;YES;ST;NO;YES
-392;SERIE A;19;12-janv;Sampdoria;Brescia;Home;Fabio Quagliarella;69;NO;NO;NO;YES;YES;NO;ST;YES;NO
-393;SERIE A;19;12-janv;Verona;Genoa;Home;Valerio Verre;55;YES;NO;NO;NO;YES;NO;ST;YES;NO
-394;SERIE A;19;12-janv;Roma;Juventus;Away;Cristiano Ronaldo;10;NO;NO;NO;YES;YES;NO;ST;YES;NO
-395;SERIE A;19;12-janv;Roma;Juventus;Home;Diego Perotti;68;NO;NO;YES;NO;YES;NO;W;NO;YES
-396;SERIE A;20;18-janv;Lazio;Sampdoria;Home;Ciro Immobile;17;NO;NO;NO;YES;YES;NO;ST;YES;NO
-397;SERIE A;20;18-janv;Lazio;Sampdoria;Home;Ciro Immobile;65;NO;NO;NO;YES;YES;NO;ST;YES;NO
-398;SERIE A;20;19-janv;Brescia;Cagliari;Away;Joao Pedro;68;YES;NO;NO;NO;YES;NO;OM;NO;YES
-399;SERIE A;21;25-janv;SPAL;Bologne;Home;Andrea Petagna;23;NO;YES;NO;NO;YES;NO;ST;NO;NO
-400;SERIE A;21;25-janv;Fiorentina;Genoa;Away;Domenico Criscito;15;NO;YES;NO;NO;NO;NO;CB;NO;YES
-401;SERIE A;21;25-janv;Torino;Atalanta;Away;Duvan Zapata;45;NO;NO;NO;YES;YES;NO;ST;YES;NO
-402;SERIE A;21;25-janv;Torino;Atalanta;Away;Luis Muriel;86;NO;NO;NO;YES;YES;YES;ST;YES;NO
-403;SERIE A;21;26-janv;Verona;Lecce;Home;Gianpaolo Pazzini;87;NO;NO;NO;YES;YES;YES;ST;YES;YES
-404;SERIE A;22;01-févr;Bologne;Brescia;Away;Ernesto Torregrosa;36;NO;YES;NO;NO;YES;NO;ST;NO;NO
-405;SERIE A;22;01-févr;Cagliari;Parme;Home;Joao Pedro;53;NO;YES;NO;NO;NO;NO;OM;NO;NO
-406;SERIE A;22;01-févr;Sassuolo;Roma;Away;Jordan Veretout;73;NO;NO;YES;NO;YES;NO;DM;NO;NO
-407;SERIE A;22;02-févr;Juventus;Fiorentina;Home;Cristiano Ronaldo;40;NO;YES;NO;NO;YES;NO;W;YES;NO
-408;SERIE A;22;02-févr;Juventus;Fiorentina;Home;Cristiano Ronaldo;80;NO;NO;NO;YES;YES;NO;W;YES;NO
-409;SERIE A;22;02-févr;Atalanta;Genoa;Away;Domenico Criscito;19;YES;NO;NO;NO;YES;NO;LD;NO;NO
-410;SERIE A;22;02-févr;Lecce;Torino;Home;Gianluca Lapadula;78;NO;NO;NO;YES;YES;NO;ST;YES;YES
-411;SERIE A;22;02-févr;Udinese;Inter Milan;Away;Romelu Lukaku;71;NO;NO;NO;YES;YES;NO;ST;YES;YES
-412;SERIE A;22;03-févr;Sampdoria;Naples;Home;Manolo Gabbiadini;73;YES;NO;NO;NO;YES;NO;OM;NO;NO
-413;SERIE A;23;08-févr;Torino;Sampdoria;Away;Fabio Quagliarella;79;NO;NO;NO;YES;YES;NO;ST;YES;YES
-414;SERIE A;23;08-févr;Verona;Juventus;Home;Gianpaolo Pazzini;86;NO;YES;NO;NO;YES;YES;OM;YES;YES
-415;SERIE A;23;09-févr;SPAL;Sassuolo;Away;Francesco Caputo;65;YES;NO;NO;NO;YES;NO;ST;YES;NO
-416;SERIE A;24;15-févr;Lecce;SPAL;Home;Marco Mancosu;41;NO;YES;NO;NO;YES;NO;OM;YES;NO
-417;SERIE A;24;15-févr;Bologne;Genoa;Away;Domenico Criscito;90;NO;NO;NO;YES;NO;NO;LD;YES;YES
-418;SERIE A;24;16-févr;Sampdoria;Fiorentina;Away;Dusan Vlahovic;18;NO;NO;NO;YES;YES;NO;ST;YES;NO
-419;SERIE A;24;16-févr;Sampdoria;Fiorentina;Away;Federico Chiesa;40;NO;NO;NO;YES;YES;NO;W;YES;NO
-420;SERIE A;24;16-févr;Lazio;Inter Milan;Home;Ciro Immobile;50;YES;NO;NO;NO;YES;NO;ST;YES;NO
-421;SERIE A;25;21-févr;Brescia;Naples;Away;Lorenzo Insigne;49;YES;NO;NO;NO;YES;NO;W;YES;NO
-422;SERIE A;25;22-févr;SPAL;Juventus;Home;Andrea Petagna;69;NO;NO;YES;NO;YES;NO;ST;NO;YES
-423;SERIE A;25;22-févr;Fiorentina;AC Milan;Home;Erick Pulgar;85;YES;NO;NO;NO;YES;NO;DM;NO;YES
-424;SERIE A;25;23-févr;Genoa;Lazio;Home;Domenico Criscito;90;NO;NO;YES;NO;YES;NO;LD;NO;YES
-425;SERIE A;25;20-juin;Torino;Parme;Home;Andrea Belotti;48;NO;YES;NO;NO;NO;NO;ST;NO;YES
-426;SERIE A;26;01-mars;Cagliari;Roma;Home;Joao Pedro;89;NO;NO;YES;NO;NO;NO;W;NO;NO
-427;SERIE A;26;08-mars;Parme;SPAL;Away;Andrea Petagna;71;NO;YES;NO;NO;YES;NO;ST;YES;YES
-428;SERIE A;26;08-mars;Sampdoria;Verona;Home;Fabio Quagliarella;86;NO;YES;NO;NO;YES;NO;ST;YES;YES
-429;SERIE A;27;22-juin;Fiorentina;Brescia;Away;Alfredo Donnarumma;17;NO;YES;NO;NO;YES;NO;ST;NO;NO
-430;SERIE A;27;22-juin;Lecce;AC Milan;Home;Marco Mancosu;54;YES;NO;NO;NO;YES;NO;DM;NO;NO
-431;SERIE A;27;22-juin;Bologne;Juventus;Away;Cristiano Ronaldo;23;NO;YES;NO;NO;YES;NO;W;YES;NO
-432;SERIE A;27;23-juin;Genoa;Parme;Home;Domenico Criscito;29;YES;NO;NO;NO;NO;NO;LD;NO;NO
-433;SERIE A;27;23-juin;Genoa;Parme;Home;Iago Falque;59;NO;NO;YES;NO;YES;YES;W;NO;NO
-434;SERIE A;27;24-juin;Inter Milan;Sassuolo;Home;Romelu Lukaku;41;YES;NO;NO;NO;YES;NO;ST;NO;NO
-435;SERIE A;27;24-juin;Inter Milan;Sassuolo;Away;Domenico Berardi;81;YES;NO;NO;NO;YES;NO;W;NO;NO
-436;SERIE A;28;26-juin;Juventus;Lecce;Home;Cristiano Ronaldo;62;NO;NO;NO;YES;YES;NO;W;YES;NO
-437;SERIE A;28;27-juin;Brescia;Genoa;Away;Iago Falque;38;NO;NO;YES;NO;YES;NO;OM;NO;NO
-438;SERIE A;28;27-juin;Brescia;Genoa;Away;Andrea Pinamonti;70;YES;NO;NO;NO;YES;NO;ST;NO;YES
-439;SERIE A;28;27-juin;Cagliari;Torino;Home;Joao Pedro;69;NO;NO;NO;YES;YES;NO;ST;YES;YES
-440;SERIE A;28;27-juin;Lazio;Fiorentina;Home;Ciro Immobile;67;YES;NO;NO;NO;YES;NO;ST;YES;NO
-441;SERIE A;28;28-juin;AC Milan;Roma;Home;Hakan Calhanoglu;89;NO;NO;NO;YES;YES;NO;OM;YES;YES
-442;SERIE A;28;28-juin;Sampdoria;Bologne;Away;Musa Barrow;72;NO;YES;NO;NO;YES;YES;ST;YES;NO
-443;SERIE A;29;30-juin;Torino;Lazio;Home;Andrea Belotti;5;NO;YES;NO;NO;YES;NO;ST;NO;NO
-444;SERIE A;29;01-juil;Inter Milan;Brescia;Home;Alexis Sanchez;20;NO;NO;NO;YES;YES;NO;W;YES;NO
-445;SERIE A;29;01-juil;Verona;Parme;Home;Samuel Di Carmine;45;YES;NO;NO;NO;YES;NO;W;YES;NO
-446;SERIE A;29;01-juil;Lecce;Sampdoria;Away;Gaston Ramirez;40;NO;YES;NO;NO;YES;NO;OM;YES;NO
-447;SERIE A;29;01-juil;Lecce;Sampdoria;Home;Marco Mancosu;50;YES;NO;NO;NO;YES;NO;DM;NO;NO
-448;SERIE A;29;01-juil;Lecce;Sampdoria;Away;Gaston Ramirez;75;NO;YES;NO;NO;YES;NO;OM;YES;YES
-449;SERIE A;29;01-juil;Fiorentina;Sassuolo;Away;Gregoire Defrel;24;NO;YES;NO;NO;YES;NO;ST;YES;NO
-450;SERIE A;30;04-juil;Juventus;Torino;Away;Andrea Belotti;45;NO;NO;YES;NO;YES;NO;ST;NO;NO
-451;SERIE A;30;04-juil;Sassuolo;Lecce;Home;Domenico Berardi;63;NO;YES;NO;NO;YES;NO;W;YES;NO
-452;SERIE A;30;04-juil;Sassuolo;Lecce;Away;Marco Mancosu;67;YES;NO;NO;NO;YES;YES;OM;NO;NO
-453;SERIE A;30;04-juil;Lazio;AC Milan;Away;Zlatan Ibrahimovic;34;NO;NO;NO;YES;YES;NO;ST;YES;NO
-454;SERIE A;30;05-juil;Inter Milan;Bologne;Home;Lautaro Martinez;62;NO;NO;NO;YES;NO;NO;ST;NO;NO
-455;SERIE A;30;05-juil;Cagliari;Atalanta;Away;Luis Muriel;27;NO;YES;NO;NO;YES;NO;ST;YES;YES
-456;SERIE A;30;05-juil;Parme;Fiorentina;Away;Erick Pulgar;19;NO;YES;NO;NO;YES;NO;DM;YES;NO
-457;SERIE A;30;05-juil;Parme;Fiorentina;Away;Erick Pulgar;31;NO;NO;NO;YES;YES;NO;DM;YES;NO
-458;SERIE A;30;05-juil;Parme;Fiorentina;Home;Juraj Kucka;49;NO;NO;YES;NO;YES;NO;DM;NO;YES
-459;SERIE A;30;05-juil;Udinese;Genoa;Away;Andrea Pinamonti;97;YES;NO;NO;NO;NO;YES;ST;NO;NO
-460;SERIE A;31;07-juil;Lecce;Lazio;Home;Marco Mancosu;45;NO;YES;NO;NO;NO;NO;DM;YES;NO
-461;SERIE A;31;07-juil;AC Milan;Juventus;Home;Zlatan Ibrahimovic;62;NO;NO;YES;NO;YES;NO;ST;YES;NO
-462;SERIE A;31;08-juil;Roma;Parme;Away;Juraj Kucka;9;NO;YES;NO;NO;YES;NO;DM;NO;NO
-463;SERIE A;32;11-juil;Juventus;Atalanta;Home;Cristiano Ronaldo;55;YES;NO;NO;NO;YES;NO;W;NO;NO
-464;SERIE A;32;11-juil;Juventus;Atalanta;Home;Cristiano Ronaldo;90;YES;NO;NO;NO;YES;NO;W;NO;YES
-465;SERIE A;32;12-juil;Genoa;SPAL;Home;Iago Falque;37;NO;NO;NO;YES;NO;NO;W;YES;NO
-466;SERIE A;32;12-juil;Naples;AC Milan;Away;Franck Kessie;73;YES;NO;NO;NO;YES;NO;DM;NO;YES
-467;SERIE A;33;15-juil;Lecce;Fiorentina;Away;Erick Pulgar;11;NO;NO;NO;YES;NO;NO;DM;YES;NO
-468;SERIE A;33;15-juil;Roma;Verona;Home;Jordan Veretout;10;NO;YES;NO;NO;YES;NO;DM;YES;NO
-469;SERIE A;34;19-juil;Genoa;Lecce;Away;Marco Mancosu;45;YES;NO;NO;NO;NO;NO;DM;NO;NO
-470;SERIE A;34;19-juil;Roma;Inter Milan;Away;Romelu Lukaku;88;YES;NO;NO;NO;YES;YES;ST;NO;YES
-471;SERIE A;34;20-juil;Juventus;Lazio;Home;Cristiano Ronaldo;51;NO;YES;NO;NO;YES;NO;W;YES;NO
-472;SERIE A;34;20-juil;Juventus;Lazio;Away;Ciro Immobile;83;NO;NO;YES;NO;YES;NO;ST;NO;YES
-473;SERIE A;35;21-juil;Sassuolo;AC Milan;Home;Francesco Caputo;42;YES;NO;NO;NO;YES;NO;ST;NO;NO
-474;SERIE A;35;22-juil;Parme;Naples;Home;Gianluca Caprari;45;NO;YES;NO;NO;YES;NO;ST;YES;NO
-475;SERIE A;35;22-juil;Parme;Naples;Away;Lorenzo Insigne;54;YES;NO;NO;NO;YES;NO;W;NO;NO
-476;SERIE A;35;22-juil;Parme;Naples;Home;Dejan Kulusevski;87;NO;YES;NO;NO;YES;YES;OM;YES;YES
-477;SERIE A;35;22-juil;Sampdoria;Genoa;Away;Domenico Criscito;22;NO;YES;NO;NO;YES;NO;LD;YES;NO
-478;SERIE A;35;22-juil;Torino;Verona;Away;Fabio Borini;56;NO;YES;NO;NO;YES;NO;W;NO;NO
-479;SERIE A;36;24-juil;AC Milan;Atalanta;Away;Ruslan Malinovskiy;26;YES;NO;NO;NO;NO;NO;ST;NO;NO
-480;SERIE A;36;26-juil;Roma;Fiorentina;Home;Jordan Veretout;45;NO;YES;NO;NO;YES;NO;DM;YES;NO
-481;SERIE A;36;26-juil;Roma;Fiorentina;Home;Jordan Veretout;87;NO;YES;NO;NO;YES;NO;DM;YES;YES
-482;SERIE A;36;26-juil;Verona;Lazio;Home;Sofyan Amrabat;39;NO;YES;NO;NO;YES;NO;DM;NO;NO
-483;SERIE A;36;26-juil;Verona;Lazio;Away;Ciro Immobile;45;YES;NO;NO;NO;YES;NO;ST;YES;NO
-484;SERIE A;36;26-juil;Verona;Lazio;Away;Ciro Immobile;94;NO;NO;NO;YES;YES;NO;ST;YES;YES
-485;SERIE A;36;26-juil;Juventus;Sampdoria;Home;Cristiano Ronaldo;89;NO;NO;NO;YES;NO;NO;W;YES;YES
-486;SERIE A;37;29-juil;Udinese;Lecce;Away;Marco Mancosu;40;YES;NO;NO;NO;YES;NO;DM;YES;NO
-487;SERIE A;37;29-juil;Sampdoria;AC Milan;Home;Gonzalo Maroni;78;NO;NO;YES;NO;NO;YES;W;NO;NO
-488;SERIE A;37;29-juil;Torino;Roma;Away;Amadou Diawara;61;NO;NO;NO;YES;YES;NO;DM;YES;NO
-489;SERIE A;38;01-août;Brescia;Sampdoria;Away;Fabio Quagliarella;27;NO;YES;NO;NO;NO;NO;ST;NO;NO
-490;SERIE A;38;01-août;Brescia;Sampdoria;Home;Ernesto Torregrosa;49;YES;NO;NO;NO;YES;NO;ST;NO;YES
-491;SERIE A;38;01-août;AC Milan;Cagliari;Home;Zlatan Ibrahimovic;44;NO;NO;NO;YES;NO;NO;ST;YES;NO
-492;SERIE A;38;01-août;Naples;Lazio;Home;Lorenzo Insigne;54;NO;YES;NO;NO;YES;NO;W;YES;NO
-493;SERIE A;38;01-août;Juventus;Roma;Away;Diego Perotti;44;NO;YES;NO;NO;YES;NO;W;YES;NO
-494;SERIE A;38;02-août;SPAL;Fiorentina;Away;Erick Pulgar;93;NO;NO;NO;YES;YES;NO;DM;YES;YES
+Id,Competition,Journee,Date,Home team,Away team,Team taking pen,Pen taker,Minute,LtD game-changing pen,DtW game-changing pen,L no game-changing,W no game-changing,Scored,PT sub,PT position,Team win,Last Goal
+1,Premier League,1,10/08/2019,West Ham,Manchester City,Away,Sergio Aguero,84,NO,NO,NO,YES,NO,YES,ST,YES,NO
+2,Premier League,1,10/08/2019,West Ham,Manchester City,Away,Sergio Aguero,86,NO,NO,NO,YES,YES,YES,ST,YES,NO
+3,Premier League,1,11/08/2019,Manchester United,Chelsea,Home,Marcus Rashford,18,NO,YES,NO,NO,YES,NO,W,YES,NO
+4,Premier League,2,17/08/2019,Aston Villa,Bournemouth,Away,Joshua King,2,NO,YES,NO,NO,YES,NO,OM,YES,NO
+5,Premier League,2,19/08/2019,Wolverhampton,Manchester United,Away,Paul Pogba,68,NO,YES,NO,NO,NO,NO,DM,NO,YES
+6,Premier League,3,24/08/2019,Manchester United,Crystal Palace,Home,Marcus Rashford,70,YES,NO,NO,NO,NO,NO,W,NO,NO
+7,Premier League,3,24-aoÃ»t,Watford,West Ham,Away,Mark Noble,3,NO,YES,NO,NO,YES,NO,DM,YES,NO
+8,Premier League,3,24-aoÃ»t,Liverpool,Arsenal,Home,Mohamed Salah,49,NO,NO,NO,YES,YES,NO,W,YES,NO
+9,Premier League,3,25-aoÃ»t,Wolverhampton,Burnley,Home,Raul Jimenez,97,YES,NO,NO,NO,YES,NO,ST,NO,YES
+10,Premier League,4,01-sept,Arsenal,Tottenham,Away,Harry Kane,40,NO,NO,NO,YES,YES,NO,ST,NO,NO
+11,Premier League,5,14-sept,Manchester United,Leicester,Home,Marcus Rashford,8,NO,YES,NO,NO,YES,NO,ST,YES,YES
+12,Premier League,5,15-sept,Watford,Arsenal,Home,Roberto Pereyra,81,YES,NO,NO,NO,YES,YES,OM,NO,YES
+13,Premier League,6,20-sept,Southampton,Bournemouth,Home,James Ward-Prowse,53,NO,NO,YES,NO,YES,NO,OM,NO,NO
+14,Premier League,6,21-sept,Manchester City,Watford,Home,Sergio Aguero,7,NO,NO,NO,YES,YES,NO,ST,YES,NO
+15,Premier League,6,22-sept,Arsenal,Aston Villa,Home,Nicolas Pepe,59,YES,NO,NO,NO,YES,NO,W,YES,NO
+16,Premier League,7,28-sept,Chelsea,Brighton,Home,Jorginho,50,NO,YES,NO,NO,YES,NO,DM,YES,NO
+17,Premier League,7,28-sept,Crystal Palace,Norwich,Home,Luka Milivojevic,21,NO,YES,NO,NO,YES,NO,DM,YES,NO
+18,Premier League,8,05-oct,Liverpool,Leicester,Home,James Milner,95,NO,YES,NO,NO,YES,NO,DM,YES,YES
+19,Premier League,8,05-oct,Norwich,Aston Villa,Away,Wesley,38,NO,NO,NO,YES,NO,NO,ST,YES,NO
+20,Premier League,8,05-oct,West Ham,Crystal Palace,Away,Patrick Van Aanholt,63,YES,NO,NO,NO,YES,NO,LD,YES,NO
+21,Premier League,9,19-oct,Wolverhampton,Southampton,Home,Raul Jimenez,61,YES,NO,NO,NO,YES,NO,ST,NO,YES
+22,Premier League,10,25-oct,Southampton,Leicester,Away,Jamie Vardy,94,NO,NO,NO,YES,YES,NO,ST,YES,YES
+23,Premier League,10,26-oct,Brighton,Everton,Home,Neal Maupay,80,YES,NO,NO,NO,YES,NO,ST,YES,NO
+24,Premier League,10,27-oct,Arsenal,Crystal Palace,Away,Luka Milivojevic,32,NO,NO,YES,NO,YES,NO,DM,NO,NO
+25,Premier League,10,27-oct,Liverpool,Tottenham,Home,Mohamed Salah,75,NO,YES,NO,NO,YES,NO,W,YES,YES
+26,Premier League,10,27-oct,Norwich,Manchester United,Away,Marcus Rashford,29,NO,NO,NO,YES,NO,NO,W,YES,NO
+27,Premier League,10,27-oct,Norwich,Manchester United,Away,Anthony Martial,44,NO,NO,NO,YES,NO,NO,ST,YES,NO
+28,Premier League,11,02-nov,Watford,Chelsea,Home,Deulofeu,80,NO,NO,YES,NO,YES,NO,W,NO,YES
+29,Premier League,13,23-nov,Arsenal,Southampton,Away,James Ward-Prowse,71,NO,YES,NO,NO,NO,NO,OM,NO,NO
+30,Premier League,13,23-nov,Brighton,Leicester,Away,Jamie Vardy,80,NO,NO,NO,YES,NO,NO,ST,YES,NO
+31,Premier League,13,23-nov,Brighton,Leicester,Away,Jamie Vardy,82,NO,NO,NO,YES,YES,NO,ST,YES,YES
+32,Premier League,13,23-nov,Watford,Burnley,Away,Ashley Barnes,82,NO,NO,NO,YES,YES,NO,ST,YES,NO
+33,Premier League,14,01-dÃ©c,Norwich,Arsenal,Away,Pierre-Emerick Aubameyang,26,YES,NO,NO,NO,NO,NO,ST,NO,NO
+34,Premier League,14,01-dÃ©c,Norwich,Arsenal,Away,Pierre-Emerick Aubameyang,29,YES,NO,NO,NO,YES,NO,ST,NO,NO
+35,Premier League,15,04-dÃ©c,Leicester,Watford,Home,Jamie Vardy,55,NO,YES,NO,NO,YES,NO,ST,YES,NO
+36,Premier League,15,04-dÃ©c,Manchester United,Tottenham,Home,Marcus Rashford,49,NO,YES,NO,NO,YES,NO,W,YES,YES
+37,Premier League,16,07-dÃ©c,Manchester City,Manchester United,Away,Marcus Rashford,23,NO,YES,NO,NO,YES,NO,W,YES,NO
+38,Premier League,17,14-dÃ©c,Sheffield United,Aston Villa,Away,Jack Grealish,78,NO,NO,YES,NO,NO,NO,W,NO,YES
+39,Premier League,18,21-dÃ©c,Manchester City,Leicester,Home,Ilkay Gundogan,43,NO,YES,NO,NO,YES,NO,DM,YES,NO
+40,Premier League,18,22-dÃ©c,Watford,Manchester United,Home,Troy Deeney,54,NO,NO,NO,YES,YES,NO,ST,YES,YES
+41,Premier League,18,22-dÃ©c,Tottenham,Chelsea,Away,Willian,45,NO,NO,NO,YES,YES,NO,W,YES,YES
+42,Premier League,18,29-janv,West Ham,Liverpool,Away,Mohamed Salah,35,NO,YES,NO,NO,YES,NO,W,YES,NO
+43,Premier League,19,26-dÃ©c,Sheffield United,Watford,Home,Oliver Norwood,36,YES,NO,NO,NO,YES,NO,DM,NO,YES
+44,Premier League,19,26-dÃ©c,Leicester,Liverpool,Away,James Milner,71,NO,NO,NO,YES,YES,YES,DM,YES,NO
+45,Premier League,19,27-dÃ©c,Wolverhampton,Manchester City,Away,Raheem Sterling,25,NO,YES,NO,NO,NO,NO,W,NO,NO
+46,Premier League,20,28-dÃ©c,Watford,Aston Villa,Home,Troy Deeney,67,NO,NO,NO,YES,YES,NO,ST,YES,NO
+47,Premier League,20,28-dÃ©c,Norwich,Tottenham,Away,Harry Kane,83,YES,NO,NO,NO,YES,NO,ST,NO,YES
+48,Premier League,20,28-dÃ©c,West Ham,Leicester,Away,Demarai Gray,12,NO,YES,NO,NO,NO,NO,W,YES,NO
+49,Premier League,21,01-janv,West Ham,Bournemouth,Home,Mark Noble,35,NO,NO,NO,YES,YES,NO,DM,YES,NO
+50,Premier League,22,11-janv,Chelsea,Burnley,Home,Jorginho,27,NO,YES,NO,NO,YES,NO,DM,YES,NO
+51,Premier League,22,11-janv,Manchester United,Norwich,Home,Marcus Rashford,52,NO,NO,NO,YES,YES,NO,W,YES,NO
+52,Premier League,22,12-janv,Aston Villa,Manchester City,Home,Anwar El Ghazi,91,NO,NO,YES,NO,YES,NO,W,NO,YES
+53,Premier League,23,18-janv,Watford,Tottenham,Home,Troy Deeney,70,NO,YES,NO,NO,NO,NO,ST,NO,YES
+54,Premier League,23,18-janv,Norwich,Bournemouth,Home,Teemu Pukki,33,NO,YES,NO,NO,YES,NO,ST,YES,YES
+55,Premier League,23,18-janv,Southampton,Wolverhampton,Away,Raul Jimenez,65,YES,NO,NO,NO,YES,NO,ST,YES,NO
+56,Premier League,23,19-janv,Burnley,Leicester,Away,Jamie Vardy,68,NO,YES,NO,NO,NO,NO,ST,NO,NO
+57,Premier League,24,21-janv,Sheffield United,Manchester City,Away,Gabriel Jesus,36,NO,YES,NO,NO,NO,NO,ST,YES,NO
+58,Premier League,24,21-janv,Chelsea,Arsenal,Home,Jorginho,28,NO,YES,NO,NO,YES,NO,DM,NO,NO
+59,Premier League,24,22-janv,Leicester,West Ham,Away,Mark Noble,50,NO,NO,YES,NO,YES,NO,DM,NO,NO
+60,Premier League,24,22-janv,Leicester,West Ham,Home,Ayoze Perez,81,NO,NO,NO,YES,YES,NO,W,YES,NO
+61,Premier League,24,22-janv,Tottenham,Norwich,Away,Teemu Pukki,70,YES,NO,NO,NO,YES,NO,ST,NO,NO
+62,Premier League,25,02-fÃ©vr,Tottenham,Manchester City,Away,Ilkay Gundogan,40,NO,YES,NO,NO,NO,NO,DM,NO,NO
+63,Premier League,26,16-fÃ©vr,Aston Villa,Tottenham,Away,Heung-Min Son,45,NO,YES,NO,NO,NO,NO,W,YES,NO
+64,Premier League,27,22-fÃ©vr,Burnley,Bournemouth,Home,Jay Rodriguez,61,NO,NO,NO,YES,YES,NO,ST,YES,NO
+65,Premier League,27,22-fÃ©vr,Leicester,Manchester City,Away,Sergio Aguero,62,NO,YES,NO,NO,NO,NO,ST,YES,NO
+66,Premier League,27,23-fÃ©vr,Manchester United,Watford,Home,Bruno Fernandes,42,NO,YES,NO,NO,YES,NO,OM,YES,NO
+67,Premier League,28,17-juin,Manchester City,Arsenal,Home,Kevin de Bruyne,51,NO,NO,NO,YES,YES,NO,OM,YES,NO
+68,Premier League,29,07-mars,Southampton,Newcastle,Away,Matt Ritchie,45,NO,YES,NO,NO,NO,NO,W,YES,NO
+69,Premier League,29,07-mars,Burnley,Tottenham,Away,Dele Alli,50,YES,NO,NO,NO,YES,NO,OM,NO,YES
+70,Premier League,29,08-mars,Leicester,Aston Villa,Home,Jamie Vardy,63,NO,NO,NO,YES,YES,NO,ST,YES,NO
+71,Premier League,30,19-juin,Tottenham,Manchester United,Away,Bruno Fernandes,81,YES,NO,NO,NO,YES,NO,OM,NO,YES
+72,Premier League,30,22-juin,Manchester City,Burnley,Home,Ryad Mahrez,45,NO,NO,NO,YES,YES,NO,W,YES,NO
+73,Premier League,31,23-juin,Leicester,Brighton,Away,Neal Maupay,14,NO,YES,NO,NO,NO,NO,ST,NO,YES
+74,Premier League,31,25-juin,Chelsea,Manchester City,Home,Willian,78,NO,YES,NO,NO,YES,NO,W,YES,YES
+75,Premier League,32,01-juil,Everton,Leicester,Home,Gilfy Sigurdsson,16,NO,NO,NO,YES,YES,NO,OM,YES,NO
+76,Premier League,32,01-juil,West Ham,Chelsea,Away,Willian,42,NO,YES,NO,NO,YES,NO,W,NO,NO
+77,Premier League,32,02-juil,Manchester City,Liverpool,Home,Kevin de Bruyne,25,NO,YES,NO,NO,YES,NO,OM,YES,NO
+78,Premier League,33,04-juil,Manchester United,Bournemouth,Home,Marcus Rashford,35,NO,YES,NO,NO,YES,NO,W,YES,NO
+79,Premier League,33,04-juil,Manchester United,Bournemouth,Away,Joshua King,49,NO,NO,YES,NO,YES,NO,ST,NO,NO
+80,Premier League,33,04-juil,Chelsea,Watford,Home,Willian,43,NO,NO,NO,YES,YES,NO,W,YES,NO
+81,Premier League,34,09-juil,Everton,Southampton,Away,James Ward-Prowse,28,NO,YES,NO,NO,NO,NO,OM,NO,NO
+82,Premier League,34,09-juil,Aston Villa,Manchester United,Away,Bruno Fernandes,27,NO,YES,NO,NO,NO,NO,OM,YES,NO
+83,Premier League,35,11-juil,Watford,Newcastle,Home,Troy Deeney,52,YES,NO,NO,NO,YES,NO,ST,YES,NO
+84,Premier League,35,11-juil,Watford,Newcastle,Home,Troy Deeney,82,NO,YES,NO,NO,YES,NO,ST,YES,YES
+85,Premier League,35,12-juil,Wolverhampton,Everton,Home,Raul Jimenez,45,NO,YES,NO,NO,YES,NO,ST,YES,NO
+86,Premier League,35,12-juil,Bournemouth,Leicester,Home,Junior Stanislas,66,YES,NO,NO,NO,YES,YES,OM,YES,NO
+87,Premier League,36,15-juil,Burnley,Wolverhampton,Home,Chris Wood,96,YES,NO,NO,NO,YES,NO,ST,NO,YES
+88,Premier League,37,19-juil,Bournemouth,Southampton,Away,Danny Ings,59,NO,NO,NO,YES,NO,NO,ST,YES,NO
+89,Premier League,37,21-juil,Watford,Manchester City,Away,Raheem Sterling,40,NO,NO,NO,YES,NO,NO,W,YES,NO
+90,Premier League,37,22-juil,Manchester United,West Ham,Away,Michail Antonio,45,NO,YES,NO,NO,YES,NO,ST,NO,NO
+91,Premier League,38,26-juil,Arsenal,Watford,Home,Pierre-Emerick Aubameyang,5,NO,YES,NO,NO,YES,NO,ST,YES,NO
+92,Premier League,38,26-juil,Arsenal,Watford,Away,Troy Deeney,43,NO,NO,YES,NO,YES,NO,ST,NO,NO
+93,Premier League,38,26-juil,Everton,Bournemouth,Away,Joshua King,13,NO,YES,NO,NO,YES,NO,ST,YES,NO
+94,Premier League,38,26-juil,Leicester,Manchester United,Away,Bruno Fernandes,71,NO,YES,NO,NO,YES,NO,OM,YES,NO
+95,Premier League,38,26-juil,Southampton,Sheffield United,Home,Danny Ings,84,NO,NO,NO,YES,YES,NO,ST,YES,YES
+96,Ligue 1,1,10/08/2019,Dijon,Saint-Etienne,Home,Julio Tavares,34,NO,NO,YES,NO,YES,NO,ST,NO,YES
+97,Ligue 1,1,10/08/2019,Montpellier,Rennes,Home,Andy Delort,61,YES,NO,NO,NO,NO,NO,ST,NO,NO
+98,Ligue 1,1,10/08/2019,Brest,Toulouse,Home,Gaetan Charbonnier,84,NO,NO,NO,YES,NO,NO,ST,NO,NO
+99,Ligue 1,1,11/08/2019,PSG,Nimes,Home,Edinson Cavani,24,NO,YES,NO,NO,YES,NO,ST,YES,NO
+100,Ligue 1,2,17/08/2019,Nantes,Marseille,Away,Dario Benedetto,34,NO,YES,NO,NO,NO,NO,ST,NO,NO
+101,Ligue 1,2,17/08/2019,Metz,Monaco,Home,Habib Diallo,11,NO,YES,NO,NO,YES,NO,ST,YES,NO
+102,Ligue 1,2,17/08/2019,Nimes,Nice,Away,Wilan Cyprien,10,NO,YES,NO,NO,YES,NO,DM,YES,NO
+103,Ligue 1,2,17/08/2019,Nimes,Nice,Home,Renaud Ripart,45,NO,NO,YES,NO,YES,NO,ST,NO,YES
+104,Ligue 1,3,25/08/2019,Strasbourg,Rennes,Home,Jonas Martin,40,YES,NO,NO,NO,NO,NO,DM,NO,NO
+105,Ligue 1,3,25/08/2019,PSG,Toulouse,Home,Angel Di Maria,71,NO,NO,NO,YES,NO,NO,W,YES,NO
+106,Ligue 1,3,27/08/2019,Montpellier,Lyon,Home,Andy Delort,37,NO,YES,NO,NO,NO,NO,ST,YES,NO
+107,Ligue 1,3,28/08/2019,Lille,Saint-Etienne,Home,Jonathan Bamba,69,NO,NO,NO,YES,YES,NO,W,YES,NO
+108,Ligue 1,3,28/08/2019,Nice,Marseille,Home,Wilan Cyprien,66,YES,NO,NO,NO,YES,NO,DM,NO,NO
+109,Ligue 1,3,28/08/2019,Nice,Marseille,Away,Dimitri Payet,73,NO,YES,NO,NO,YES,NO,OM,YES,YES
+110,Ligue 1,4,30/08/2019,Metz,PSG,Away,Angel Di Maria,11,NO,YES,NO,NO,YES,NO,W,YES,NO
+111,Ligue 1,4,01/09/2019,Reims,Lille,Home,Moussa Doumbia,73,NO,YES,NO,NO,YES,NO,W,YES,NO
+112,Ligue 1,4,01/09/2019,Reims,Lille,Away,Jonathan Bamba,93,NO,NO,YES,NO,NO,NO,W,NO,NO
+113,Ligue 1,4,01/09/2019,Rennes,Nice,Away,Wilan Cyprien,63,YES,NO,NO,NO,YES,NO,DM,YES,NO
+114,Ligue 1,4,01/09/2019,Strasbourg,Monaco,Home,Kenny Lala,39,YES,NO,NO,NO,YES,NO,LD,NO,NO
+115,Ligue 1,5,15/09/2019,Saint-Etienne,Toulouse,Away,Max-Alain Gradel,15,NO,YES,NO,NO,YES,NO,W,NO,NO
+116,Ligue 1,5,15/09/2019,Monaco,Marseille,Home,Wissam Ben Yedder,17,NO,YES,NO,NO,YES,NO,ST,NO,NO
+117,Ligue 1,6,20/09/2019,Strasbourg,Nantes,Home,Ludovic Ajorque,89,NO,YES,NO,NO,YES,NO,ST,YES,YES
+118,Ligue 1,7,25/09/2019,Nantes,Rennes,Away,Mbaye Niang,35,NO,YES,NO,NO,NO,NO,ST,NO,NO
+119,Ligue 1,7,25/09/2019,Nantes,Rennes,Home,Abdoulaye Toure,77,NO,YES,NO,NO,YES,NO,DM,YES,YES
+120,Ligue 1,8,28/09/2019,Monaco,Brest,Home,Islam Slimani,62,NO,NO,NO,YES,YES,NO,ST,YES,NO
+121,Ligue 1,8,28/09/2019,Metz,Toulouse,Home,Ibrahima Niane,91,NO,YES,NO,NO,YES,YES,ST,NO,NO
+122,Ligue 1,8,29/09/2019,Strasbourg,Montpellier,Away,Petar Skuletic,45,YES,NO,NO,NO,NO,NO,ST,NO,NO
+123,Ligue 1,9,04/10/2019,Amiens,Marseille,Away,Dario Benedetto,23,YES,NO,NO,NO,YES,NO,ST,NO,NO
+124,Ligue 1,9,04/10/2019,Amiens,Marseille,Home,Sehrou Guirassy,41,NO,YES,NO,NO,YES,NO,ST,YES,NO
+125,Ligue 1,9,06/10/2019,Lille,Nimes,Away,Renaud Ripart,45,YES,NO,NO,NO,YES,NO,ST,NO,NO
+126,Ligue 1,10,19/10/2019,Toulouse,Lille,Home,Max-Alain Gradel,66,NO,NO,NO,YES,YES,NO,W,YES,NO
+127,Ligue 1,10,19/10/2019,Toulouse,Lille,Home,Max-Alain Gradel,82,NO,NO,NO,YES,NO,NO,W,YES,NO
+128,Ligue 1,10,20/10/2019,Bordeaux,Saint-Etienne,Away,Denis Bouanga,93,NO,YES,NO,NO,YES,NO,W,YES,YES
+129,Ligue 1,10,20/10/2019,Marseille,Strasbourg,Home,Kevin Strootman,95,NO,NO,NO,YES,YES,NO,DM,YES,YES
+130,Ligue 1,11,26/10/2019,Lille,Bordeaux,Home,Yusuf Yazici,62,NO,NO,NO,YES,YES,NO,OM,YES,NO
+131,Ligue 1,11,26/10/2019,Lyon,Metz,Home,Moussa Dembele,33,NO,NO,NO,YES,YES,NO,ST,YES,YES
+132,Ligue 1,12,02/11/2019,Angers,Strasbourg,Home,Stephane Bahoken,26,NO,YES,NO,NO,YES,NO,ST,YES,YES
+133,Ligue 1,12,02/11/2019,Amiens,Brest,Home,Sehrou Guirassy,2,NO,YES,NO,NO,NO,NO,ST,YES,NO
+134,Ligue 1,13,08/11/2019,Nice,Bordeaux,Away,Jimmy Briand,49,YES,NO,NO,NO,YES,NO,ST,NO,YES
+135,Ligue 1,13,10/11/2019,Rennes,Amiens,Home,Raphinha,79,NO,NO,NO,YES,YES,NO,W,YES,YES
+136,Ligue 1,13,10/11/2019,Marseille,Lyon,Home,Dimitri Payet,18,NO,YES,NO,NO,YES,NO,OM,YES,NO
+137,Ligue 1,14,23/11/2019,Lyon,Nice,Home,Moussa Dembele,28,NO,NO,NO,YES,YES,NO,ST,YES,NO
+138,Ligue 1,14,24/11/2019,Bordeaux,Monaco,Home,Nicolas de Preville,69,NO,YES,NO,NO,YES,NO,W,YES,YES
+139,Ligue 1,15,30/11/2019,Lille,Dijon,Home,Victor Osimhen,45,NO,YES,NO,NO,YES,NO,ST,YES,YES
+140,Ligue 1,15,01/12/2019,Nantes,Toulouse,Home,Abdoulaye Toure,43,NO,YES,NO,NO,YES,NO,DM,YES,NO
+141,Ligue 1,15,01/12/2019,Nantes,Toulouse,Away,Aaron Leya Iseka ,96,NO,NO,YES,NO,YES,YES,ST,NO,YES
+142,Ligue 1,15,15/01/2020,Monaco,PSG,Away,Neymar,45,NO,NO,NO,YES,YES,NO,W,YES,NO
+143,Ligue 1,16,03/12/2019,Angers,Marseille,Away,Dimitri Payet,41,NO,NO,NO,YES,YES,NO,OM,YES,YES
+144,Ligue 1,16,03/12/2019,Brest,Strasbourg,Home,Ferris Ngoma,94,NO,NO,NO,YES,YES,YES,W,YES,YES
+145,Ligue 1,16,04/12/2019,Saint-Etienne,Nice,Home,Denis Bouanga,11,NO,YES,NO,NO,YES,NO,W,YES,NO
+146,Ligue 1,16,04/12/2019,Toulouse,Monaco,Away,Wissam Ben Yedder,5,NO,YES,NO,NO,YES,NO,ST,YES,NO
+147,Ligue 1,16,04/12/2019,Toulouse,Monaco,Home,Yaya Sanogo,40,YES,NO,NO,NO,YES,NO,ST,NO,NO
+148,Ligue 1,16,04/12/2019,PSG,Nantes,Home,Neymar,85,NO,NO,NO,YES,YES,NO,W,YES,YES
+149,Ligue 1,16,15/01/2020,Amiens,Reims,Home,Moussa Konate,54,YES,NO,NO,NO,NO,NO,ST,NO,NO
+150,Ligue 1,17,06/12/2019,Lille,Brest,Home,Jonathan Bamba,94,NO,NO,NO,YES,NO,NO,W,YES,NO
+151,Ligue 1,17,06/12/2019,Nimes,Lyon,Away,Memphis Depay,16,NO,YES,NO,NO,YES,NO,W,YES,NO
+152,Ligue 1,17,07/12/2019,Nice,Metz,Home,Wilan Cyprien,41,NO,NO,NO,YES,YES,NO,DM,YES,NO
+153,Ligue 1,18,13/12/2019,Lille,Montpellier,Home,Jonathan Ikone,40,NO,YES,NO,NO,YES,NO,OM,YES,NO
+154,Ligue 1,18,13/12/2019,Lille,Montpellier,Home,Victor Osimhen,89,NO,NO,NO,YES,NO,NO,ST,YES,NO
+155,Ligue 1,18,14/12/2019,Metz,Marseille,Home,Habib Diallo,52,NO,NO,NO,YES,NO,NO,ST,NO,NO
+156,Ligue 1,18,14/12/2019,Brest,Nice,Home,Gaetan Charbonnier,35,NO,YES,NO,NO,NO,NO,ST,NO,NO
+157,Ligue 1,18,15/12/2019,Saint-Etienne,PSG,Away,Neymar,62,NO,NO,NO,YES,NO,NO,W,YES,NO
+158,Ligue 1,19,21/12/2019,Montpellier,Brest,Home,Teji Savanier,30,NO,NO,NO,YES,YES,NO,DM,YES,NO
+159,Ligue 1,19,21/12/2019,Strasbourg,Saint-Etienne,Away,Ryad Boudebouz,72,NO,NO,YES,NO,YES,NO,OM,NO,YES
+160,Ligue 1,19,21/12/2019,Reims,Lyon,Home,Mathieu Cafaro,44,YES,NO,NO,NO,YES,NO,W,NO,YES
+161,Ligue 1,19,21/12/2019,Reims,Lyon,Away,Moussa Dembele,83,NO,YES,NO,NO,NO,NO,ST,NO,NO
+162,Ligue 1,20,11/01/2020,Angers,Nice,Away,Wilan Cyprien,45,YES,NO,NO,NO,YES,NO,DM,NO,YES
+163,Ligue 1,20,12/01/2020,PSG,Monaco,Home,Neymar,42,NO,YES,NO,NO,YES,NO,W,NO,NO
+164,Ligue 1,21,25/01/2020,Brest,Amiens,Away,Sehrou Guirassy,58,YES,NO,NO,NO,YES,NO,ST,NO,NO
+165,Ligue 1,21,25/01/2020,Saint-Etienne,Nimes,Home,Wahbi Khazri,34,NO,NO,NO,YES,YES,NO,OM,YES,NO
+166,Ligue 1,21,26/01/2020,Lille,PSG,Away,Neymar,52,NO,NO,NO,YES,YES,NO,W,YES,YES
+167,Ligue 1,22,31/01/2020,Rennes,Nantes,Home,Mbaye Niang,71,YES,NO,NO,NO,NO,NO,ST,YES,NO
+168,Ligue 1,22,01/02/2020,Angers,Reims,Away,El Bilal Toure,38,YES,NO,NO,NO,YES,NO,ST,YES,NO
+169,Ligue 1,22,01/02/2020,Strasbourg,Lille,Away,Victor Osimhen,80,NO,YES,NO,NO,YES,NO,ST,YES,YES
+170,Ligue 1,23,05/02/2020,Montpellier,Metz,Away,Habib Diallo,21,YES,NO,NO,NO,NO,NO,ST,NO,NO
+171,Ligue 1,23,05/02/2020,Brest,Bordeaux,Home,Christian Batocchio,44,YES,NO,NO,NO,NO,NO,DM,NO,NO
+172,Ligue 1,24,09/02/2020,Strasbourg,Reims,Home,Kenny Lala,94,NO,NO,NO,YES,YES,NO,LD,YES,YES
+173,Ligue 1,25,15/02/2020,Toulouse,Nice,Home,Aaron Leya Iseka ,91,YES,NO,NO,NO,NO,NO,ST,NO,NO
+174,Ligue 1,25,16/02/2020,Brest,Saint-Etienne,Away,Denis Bouanga,54,NO,NO,YES,NO,YES,NO,W,NO,NO
+175,Ligue 1,25,16/02/2020,Reims,Rennes,Home,El Bilal Toure,72,NO,YES,NO,NO,YES,NO,ST,YES,YES
+176,Ligue 1,25,16/02/2020,Lille,Marseille,Away,Valentin Rongier,60,YES,NO,NO,NO,NO,NO,DM,YES,NO
+177,Ligue 1,26,21/02/2020,Metz,Lyon,Away,Maxwell Cornet,45,NO,YES,NO,NO,NO,NO,W,YES,NO
+178,Ligue 1,26,21/02/2020,Metz,Lyon,Away,Moussa Dembele,45,NO,YES,NO,NO,YES,NO,ST,YES,NO
+179,Ligue 1,26,23/02/2020,Saint-Etienne,Reims,Away,Boulaye Dia,94,YES,NO,NO,NO,YES,NO,W,NO,YES
+180,Ligue 1,27,29/02/2020,Monaco,Reims,Home,Wissam Ben Yedder,31,NO,YES,NO,NO,YES,NO,ST,NO,NO
+181,Ligue 1,27,29/02/2020,Montpellier,Strasbourg,Home,Teji Savanier,57,NO,YES,NO,NO,YES,NO,DM,YES,NO
+182,Ligue 1,27,01/03/2020,Lyon,Saint-Etienne,Home,Moussa Dembele,96,NO,NO,NO,YES,YES,NO,ST,YES,YES
+183,Ligue 1,28,06/03/2020,Marseille,Amiens,Away,Sehrou Guirassy,83,NO,NO,YES,NO,YES,NO,ST,NO,NO
+184,Ligue 1,28,07/03/2020,Reims,Brest,Away,Alexandre Mendy,29,NO,YES,NO,NO,NO,NO,ST,NO,NO
+185,Ligue 1,28,07/03/2020,Reims,Brest,Home,El Bilal Toure,37,NO,YES,NO,NO,YES,NO,ST,YES,YES
+186,Ligue 1,28,08/03/2020,Rennes,Montpellier,Home,Romain Del Castillo,73,NO,NO,NO,YES,YES,NO,ST,YES,NO
+187,Ligue 1,28,08/03/2020,Rennes,Montpellier,Home,Adrien Hunou,87,NO,NO,NO,YES,YES,NO,OM,YES,YES
+188,Champions league,1,17-sept,Lyon,Zenit,Home,Memphis Depay,51,YES,NO,NO,NO,YES,NO,W,NO,YES
+189,Champions league,1,17-sept,Chelsea,Valencia,Home,Ross Barkley,87,YES,NO,NO,NO,NO,YES,OM,NO,YES
+190,Champions league,1,17-sept,Borussia Dortmund,Barcelona,Home,Marco Reus,57,NO,YES,NO,NO,NO,NO,OM,NO,YES
+191,Champions league,1,17-sept,Napoli,Liverpool,Home,Dries Mertens,82,NO,YES,NO,NO,YES,NO,OM,YES,NO
+192,Champions league,1,18-sept,Olympiakos,Tottenham,Away,Harry Kane,26,NO,YES,NO,NO,YES,NO,ST,NO,NO
+193,Champions league,1,18-sept,Olympiakos,Tottenham,Home,Mathieu Valbuena,54,YES,NO,NO,NO,YES,NO,OM,NO,YES
+194,Champions league,2,01-oct,Atalanta,Shaktar Donetsk,Home,Josip Ilicic,16,NO,YES,NO,NO,NO,NO,ST,NO,NO
+195,Champions league,2,01-oct,Tottenham,Bayern,Home,Harry Kane,61,NO,NO,YES,NO,YES,NO,ST,NO,NO
+196,Champions league,2,02-oct,Valencia,Ajax,Home,Dani Parejo,25,YES,NO,NO,NO,NO,NO,DM,NO,NO
+197,Champions league,3,22-oct,Shaktar Donetsk,Dinamo Zagreb,Away,Mislav Orsic,60,NO,YES,NO,NO,YES,NO,W,NO,NO
+198,Champions league,3,22-oct,Manchester City,Atalanta,Away,Ruslan Malinovskiy,28,NO,YES,NO,NO,YES,NO,OM,NO,NO
+199,Champions league,3,22-oct,Manchester City,Atalanta,Home,Sergio Aguero,38,NO,YES,NO,NO,YES,NO,ST,YES,NO
+200,Champions league,3,23-oct,RB Salzbourg,Napoli,Home,Erling Haaland,40,YES,NO,NO,NO,YES,NO,ST,NO,NO
+201,Champions league,3,23-oct,Inter Milan,Borussia Dortmund,Home,Lautaro Martinez,82,NO,NO,NO,YES,NO,NO,ST,YES,NO
+202,Champions league,4,05-nov,Napoli,RB Salzbourg,Away,Erling Haaland,11,NO,YES,NO,NO,YES,NO,ST,NO,NO
+203,Champions league,4,05-nov,Chelsea,Ajax,Home,Jorginho,4,YES,NO,NO,NO,YES,NO,DM,NO,NO
+204,Champions league,4,05-nov,Chelsea,Ajax,Home,Jorginho,71,NO,NO,YES,NO,YES,NO,DM,NO,NO
+205,Champions league,4,05-nov,Valencia,Lille,Home,Dani Parejo,66,YES,NO,NO,NO,YES,NO,DM,YES,NO
+206,Champions league,4,06-nov,PSG,Club Bruges,Away,Mbaye Diagne,76,YES,NO,NO,NO,NO,YES,ST,NO,YES
+207,Champions league,4,06-nov,Real Madrid,Galatasaray,Home,Sergio Ramos,14,NO,NO,NO,YES,YES,NO,CB,YES,NO
+208,Champions league,4,06-nov,Dinamo Zagreb,Shaktar Donetsk,Away,Mateus Martins,98,YES,NO,NO,NO,YES,YES,DM,NO,YES
+209,Champions league,4,06-nov,Atalanta,Manchester City,Away,Gabriel Jesus,43,NO,NO,NO,YES,NO,NO,ST,NO,NO
+210,Champions league,5,26-nov,Etoile Rouge Belgrade,Bayern Munich,Away,Robert Lewandowski,53,NO,NO,NO,YES,YES,NO,ST,YES,NO
+211,Champions league,5,26-nov,Atalanta,Dinamo Zagreb,Home,Luis Muriel,27,NO,YES,NO,NO,YES,NO,ST,YES,NO
+212,Champions league,5,27-nov,Valencia,Chelsea,Home,Dani Parejo,64,YES,NO,NO,NO,NO,NO,DM,NO,NO
+213,Champions league,5,27-nov,RB Leipzig,Benfica,Home,Emil Forsberg,90,NO,NO,YES,NO,YES,NO,OM,NO,NO
+214,Champions league,5,27-nov,Slavia Prague,Inter Milan,Home,Tomas Soucek,37,YES,NO,NO,NO,YES,NO,DM,NO,NO
+215,Champions league,6,10-dÃ©c,Napoli,Genk,Home,Arkadiusz Milik,38,NO,NO,NO,YES,YES,NO,ST,YES,NO
+216,Champions league,6,10-dÃ©c,Napoli,Genk,Home,Dries Mertens,74,NO,NO,NO,YES,YES,NO,OM,YES,YES
+217,Champions league,6,10-dÃ©c,Benfica,Zenit,Home,Pizzi,58,NO,NO,NO,YES,YES,NO,W,YES,NO
+218,Champions league,6,10-dÃ©c,Lyon,RB Leipzig,Away,Emil Forsberg,9,NO,YES,NO,NO,YES,NO,OM,NO,NO
+219,Champions league,6,10-dÃ©c,Lyon,RB Leipzig,Away,Timo Werner,33,NO,NO,NO,YES,YES,NO,ST,NO,NO
+220,Champions league,6,11-dÃ©c,PSG,Galatasaray,Home,Edinson Cavani,84,NO,NO,NO,YES,YES,YES,ST,YES,YES
+221,Champions league,6,11-dÃ©c,Olympiakos,Etoile Rouge Belgrade,Away,Tomane,42,NO,YES,NO,NO,NO,NO,ST,NO,NO
+222,Champions league,6,11-dÃ©c,Olympiakos,Etoile Rouge Belgrade,Home,Yusuf El-Arabi,87,NO,YES,NO,NO,YES,NO,ST,YES,YES
+223,Champions league,6,11-dÃ©c,Atletico Madrid,Lokomotiv Moscou,Home,Kieran Trippier,2,NO,YES,NO,NO,NO,NO,LD,YES,NO
+224,Champions league,6,11-dÃ©c,Atletico Madrid,Lokomotiv Moscou,Home,Joao Felix,17,NO,YES,NO,NO,YES,NO,ST,YES,NO
+225,Champions league,Ro8,19-fÃ©vr,Tottenham,RB Leipzig,Away,Timo Werner,58,NO,YES,NO,NO,YES,NO,W,YES,YES
+226,Champions league,Ro8,26-fÃ©vr,Real Madrid,Manchester City,Away,Kevin de Bruyne,83,NO,YES,NO,NO,YES,NO,OM,YES,YES
+227,Champions league,Ro8,10-mars,Valencia,Atalanta,Away,Josip Ilicic,3,NO,YES,NO,NO,YES,NO,ST,YES,NO
+228,Champions league,Ro8,10-mars,Valencia,Atalanta,Away,Josip Ilicic,43,NO,YES,NO,NO,YES,NO,ST,YES,NO
+229,Champions league,Ro8,07-aoÃ»t,Juventus,Lyon,Away,Memphis Depay,12,NO,YES,NO,NO,YES,NO,ST,NO,NO
+230,Champions league,Ro8,07-aoÃ»t,Juventus,Lyon,Home,Cristiano Ronaldo,43,YES,NO,NO,NO,YES,NO,ST,YES,NO
+231,Champions league,Ro8,08-aoÃ»t,Bayern Munich,Chelsea,Home,Robert Lewandowski,10,NO,YES,NO,NO,YES,NO,ST,YES,NO
+232,Champions league,Ro8,08-aoÃ»t,Barcelona,Napoli,Home,Luis Suarez,45,NO,NO,NO,YES,YES,NO,ST,YES,NO
+233,Champions league,Ro8,08-aoÃ»t,Barcelona,Napoli,Away,Lorenzo Insigne,45,NO,NO,YES,NO,YES,NO,W,NO,YES
+234,Bundesliga,1,16/08/2019,Bayern Munich,Hertha Berlin,Home,Robert Lewandowski,60,YES,NO,NO,NO,YES,NO,ST,NO,YES
+235,Bundesliga,1,17/08/2019,Freiburg,Mainz,Home,Luca Waldschimdt,87,NO,NO,NO,YES,YES,NO,ST,YES,YES
+236,Bundesliga,2,24/08/2019,Paderborn,Freiburg,Away,Luca Waldschimdt,21,YES,NO,NO,NO,YES,NO,ST,YES,NO
+237,Bundesliga,2,24/08/2019,Schalke 04,Bayern Munich,Away,Robert Lewandowski,20,NO,YES,NO,NO,YES,NO,ST,YES,NO
+238,Bundesliga,2,25/08/2019,Hertha Berlin,Wolfsburg,Away,Wout Weghorst,9,NO,YES,NO,NO,YES,NO,ST,YES,NO
+239,Bundesliga,4,14/09/2019,Union Berlin,Werder Bremen,Away,Davy Klaassen,5,NO,YES,NO,NO,YES,NO,OM,YES,NO
+240,Bundesliga,4,14/09/2019,Union Berlin,Werder Bremen,Home,Sebastian Andersson,14,YES,NO,NO,NO,YES,NO,ST,NO,NO
+241,Bundesliga,4,14/09/2019,Union Berlin,Werder Bremen,Away,Davy Klaassen,55,NO,YES,NO,NO,NO,NO,OM,YES,NO
+242,Bundesliga,4,14/09/2019,RB Leipzig,Bayern Munich,Home,Emil Forsberg,45,YES,NO,NO,NO,YES,NO,OM,NO,YES
+243,Bundesliga,5,21-sept,Bayern Munich,Cologne,Home,Philippe Coutinho,62,NO,NO,NO,YES,YES,NO,OM,YES,NO
+244,Bundesliga,6,28/09/2019,RB Leipzig,Schalke 04,Away,Amine Harit,43,NO,NO,NO,YES,YES,NO,OM,YES,NO
+245,Bundesliga,6,29/09/2019,Dusseldorf,Freiburg,Away,Lucas Holer,64,NO,YES,NO,NO,NO,NO,W,YES,NO
+246,Bundesliga,7,04/10/2019,Hertha Berlin,Dusseldorf,Away,Rouwen Hennings,32,NO,YES,NO,NO,YES,NO,ST,NO,NO
+247,Bundesliga,7,05/10/2019,Paderborn,Mainz,Away,Daniel Brosinski,32,NO,YES,NO,NO,YES,NO,LD,YES,YES
+248,Bundesliga,7,05/10/2019,Paderborn,Mainz,Home,Jamilu Collins,79,YES,NO,NO,NO,NO,NO,LD,NO,YES
+249,Bundesliga,7,06/10/2019,Eintracht Frankfurt,Werder Bremen,Away,Milot Rashica,91,YES,NO,NO,NO,YES,NO,W,NO,YES
+250,Bundesliga,8,18/10/2019,Eintracht Frankfurt,Bayer Leverkusen,Home,Goncalo Paciencia,16,NO,NO,NO,YES,YES,NO,ST,YES,NO
+251,Bundesliga,9,26/10/2019,Bayern Munich,Union Berlin,Away,Sebastian Andersson,58,NO,NO,YES,NO,NO,NO,ST,NO,NO
+252,Bundesliga,9,26/10/2019,Bayern Munich,Union Berlin,Away,Sebastian Polter,86,NO,NO,YES,NO,YES,YES,ST,NO,YES
+253,Bundesliga,10,02/11/2019,Borussia Dortmund,Wolfsburg,Home,Mario Gotze,88,NO,NO,NO,YES,YES,YES,OM,YES,YES
+254,Bundesliga,10,02/11/2019,Union Berlin,Hertha Berlin,Home,Sebastian Polter,87,NO,YES,NO,NO,YES,YES,ST,YES,YES
+255,Bundesliga,10,03/11/2019,Dusseldorf,Cologne,Home,Rouwen Hennings,38,NO,YES,NO,NO,YES,NO,ST,YES,NO
+256,Bundesliga,10,03/11/2019,Augsburg,Schalke 04,Home,Alfred Finnbogason,60,NO,YES,NO,NO,YES,NO,ST,NO,NO
+257,Bundesliga,11,08/11/2019,Cologne,Hoffenheim,Away,Jurgen Locadia,98,NO,YES,NO,NO,YES,NO,ST,YES,YES
+258,Bundesliga,11,09/11/2019,Hertha Berlin,RB Leipzig,Away,Timo Werner,38,YES,NO,NO,NO,YES,NO,ST,YES,NO
+259,Bundesliga,11,09/11/2019,Schalke 04,Dusseldorf,Away,Rouwen Hennings,62,YES,NO,NO,NO,YES,NO,ST,NO,NO
+260,Bundesliga,11,09/11/2019,Paderborn,Augsburg,Home,Klaus Gjasula,7,NO,YES,NO,NO,NO,NO,DM,NO,NO
+261,Bundesliga,11,10/11/2019,Borussia Monchengladbach,Werder Bremen,Away,Davy Klaassen,53,NO,NO,YES,NO,NO,NO,OM,NO,NO
+262,Bundesliga,12,23-nov,RB Leipzig,Cologne,Home,Emil Forsberg,32,NO,NO,NO,YES,YES,NO,OM,YES,NO
+263,Bundesliga,13,29/11/2019,Schalke 04,Union Berlin,Away,Marcus Ingvartsen,36,YES,NO,NO,NO,YES,NO,W,NO,NO
+264,Bundesliga,13,30-nov,Cologne,Augsburg,Away,Andre Hahn,9,NO,YES,NO,NO,NO,NO,W,NO,NO
+265,Bundesliga,13,01/12/2019,Borussia Monchengladbach,Freiburg,Home,Breel Embolo,49,NO,NO,NO,YES,NO,NO,ST,YES,NO
+266,Bundesliga,13,01/12/2019,Wolfsburg,Werder Bremen,Away,Milot Rashica,13,NO,YES,NO,NO,YES,NO,W,YES,NO
+267,Bundesliga,14,07/12/2019,RB Leipzig,Hoffenheim,Home,Timo Werner,52,NO,NO,NO,YES,YES,NO,ST,YES,NO
+268,Bundesliga,14,07/12/2019,Borussia Monchengladbach,Bayern Munich,Home,Rami Bensebaini,92,NO,YES,NO,NO,YES,NO,LD,YES,YES
+269,Bundesliga,14,07/12/2019,Augsburg,Mainz,Home,Florian Niederlechner,65,NO,YES,NO,NO,YES,NO,OM,YES,YES
+270,Bundesliga,15,13/12/2019,Hoffenheim,Augsburg,Away,Philipp Max,51,NO,YES,NO,NO,YES,NO,W,YES,NO
+271,Bundesliga,15,14/12/2019,Dusseldorf,RB Leipzig,Away,Timo Werner,58,NO,NO,NO,YES,YES,NO,ST,YES,NO
+272,Bundesliga,16,18/12/2019,Borussia Monchengladbach,Paderborn,Home,Lars Stindl,67,NO,NO,NO,YES,YES,NO,ST,YES,YES
+273,Bundesliga,17,21/12/2019,Schalke 04,Freiburg,Away,Nils Petersen,54,YES,NO,NO,NO,YES,NO,ST,NO,NO
+274,Bundesliga,17,21/12/2019,Schalke 04,Freiburg,Away,Vincenzo Grifo,67,NO,YES,NO,NO,YES,NO,W,NO,NO
+275,Bundesliga,18,19/01/2020,Hertha Berlin,Bayern Munich,Away,Robert Lewandowski,73,NO,NO,NO,YES,YES,NO,ST,YES,NO
+276,Bundesliga,19,25-janv,Freiburg,Paderborn,Away,Abdelhamid Sabiri,84,NO,NO,NO,YES,YES,NO,DM,YES,YES
+277,Bundesliga,19,26-janv,Bayer Leverkusen,Dusseldorf,Home,Lucas Alario,89,NO,NO,NO,YES,YES,YES,W,YES,YES
+278,Bundesliga,20,01-fÃ©vr,Borussia Dortmund,Union Berlin,Home,Marco Reus,68,NO,NO,NO,YES,YES,NO,W,YES,NO
+279,Bundesliga,21,08-fÃ©vr,Hertha Berlin,Mainz,Away,Robin Quaison,94,NO,NO,NO,YES,YES,NO,OM,YES,YES
+280,Bundesliga,21,08-fÃ©vr,Freiburg,Hoffenheim,Home,Luca Waldschimdt,40,NO,YES,NO,NO,YES,NO,ST,YES,YES
+281,Bundesliga,22,15-fÃ©vr,Hoffenheim,Wolfsburg,Away,Wout Weghorst,18,NO,YES,NO,NO,YES,NO,ST,YES,NO
+282,Bundesliga,22,15-fÃ©vr,Hoffenheim,Wolfsburg,Away,Wout Weghorst,52,NO,YES,NO,NO,YES,NO,ST,YES,NO
+283,Bundesliga,22,15-fÃ©vr,Hoffenheim,Wolfsburg,Home,Andrej Kramaric,60,YES,NO,NO,NO,YES,NO,ST,NO,NO
+284,Bundesliga,23,22-fÃ©vr,Borussia Monchengladbach,Hoffenheim,Home,Alassane Plea,75,NO,NO,NO,YES,NO,NO,W,NO,NO
+285,Bundesliga,24,28-fÃ©vr,Dusseldorf,Hertha Berlin,Away,Krzysztof Piatek,75,YES,NO,NO,NO,YES,NO,ST,NO,YES
+286,Bundesliga,26,16-mai,Eintracht Frankfurt,Borussia Monchengladbach,Away,Rami Bensebaini,73,NO,NO,NO,YES,YES,NO,LD,YES,NO
+287,Bundesliga,26,17-mai,Cologne,Mainz,Home,Mark Uth,6,NO,YES,NO,NO,YES,NO,OM,NO,NO
+288,Bundesliga,26,17-mai,Union Berlin,Bayern Munich,Away,Robert Lewandowski,40,NO,YES,NO,NO,YES,NO,ST,YES,NO
+289,Bundesliga,27,23-mai,Borussia Monchengladbach,Bayer Leverkusen,Away,Kai Havertz,58,NO,YES,NO,NO,YES,NO,OM,YES,NO
+290,Bundesliga,27,24-mai,Cologne,Dusseldorf,Home,Mark Uth,58,YES,NO,NO,NO,NO,NO,OM,NO,NO
+291,Bundesliga,28,27-mai,RB Leipzig,Hertha Berlin,Away,Krzysztof Piatek,82,YES,NO,NO,NO,YES,YES,ST,NO,YES
+292,Bundesliga,28,27-mai,Hoffenheim,Cologne,Away,Mark Uth,77,NO,NO,YES,NO,NO,NO,OM,NO,YES
+293,Bundesliga,29,30-mai,Wolfsburg,Eintracht Frankfurt,Away,Andre Silva,27,NO,YES,NO,NO,YES,NO,ST,YES,NO
+294,Bundesliga,29,30-mai,Mainz,Hoffenheim,Away,Sven Zuber,27,NO,YES,NO,NO,NO,NO,LD,YES,NO
+295,Bundesliga,29,31-mai,Paderborn,Borussia Dortmund,Home,Uwe Hunemeier,72,NO,NO,YES,NO,YES,NO,CB,NO,NO
+296,Bundesliga,30,06-juin,Dusseldorf,Hoffenheim,Home,Rouwen Hennings,76,YES,NO,NO,NO,YES,NO,ST,NO,YES
+297,Bundesliga,30,07-juin,Augsburg,Cologne,Home,Florian Niederlechner,27,NO,YES,NO,NO,NO,NO,ST,NO,NO
+298,Bundesliga,31,13-juin,Wolfsburg,Freiburg,Home,Wout Weghorst,26,NO,NO,NO,YES,YES,NO,ST,NO,NO
+299,Bundesliga,31,13-juin,Paderborn,Werder Bremen,Away,Milot Rashica,19,NO,YES,NO,NO,NO,NO,ST,YES,NO
+300,Bundesliga,31,14-juin,Schalke 04,Bayer Leverkusen,Home,Daniel Caligiuri,51,NO,YES,NO,NO,YES,NO,OM,NO,NO
+301,Bundesliga,32,16-juin,Freiburg,Hertha Berlin,Away,Vedad Ibisevic,66,YES,NO,NO,NO,YES,NO,ST,NO,NO
+302,Bundesliga,32,17-juin,Borussia Dortmund,Mainz,Away,Jean-Philippe Mateta,49,NO,NO,NO,YES,YES,NO,ST,YES,YES
+303,Bundesliga,33,20-juin,Cologne,Eintracht Frankfurt,Home,Florian Kainz,45,NO,YES,NO,NO,YES,NO,OM,NO,NO
+304,Bundesliga,33,20-juin,Paderborn,Borussia Monchengladbach,Away,Lars Stindl,55,NO,YES,NO,NO,YES,NO,OM,YES,NO
+305,Bundesliga,34,27-juin,Borussia Dortmund,Hoffenheim,Away,Andrej Kramaric,50,NO,NO,NO,YES,YES,NO,OM,YES,YES
+306,Bundesliga,34,27-juin,Wolfsburg,Bayern Munich,Away,Robert Lewandowski,72,NO,NO,NO,YES,YES,NO,ST,YES,NO
+307,SERIE A,1,24/08/2019,Fiorentina,Napoli,Home,Erick Pulgar,9,NO,YES,NO,NO,YES,NO,DM,NO,NO
+308,SERIE A,1,24/08/2019,Fiorentina,Napoli,Away,Lorenzo Insigne,42,NO,YES,NO,NO,YES,NO,W,YES,NO
+309,SERIE A,1,25/08/2019,Cagliari,Brescia,Away,Alfredo Donnaruma,54,NO,YES,NO,NO,YES,NO,ST,YES,YES
+310,SERIE A,1,25/08/2019,Verona,Bologna,Away,Nicola Sansone,15,NO,YES,NO,NO,YES,NO,W,NO,NO
+311,SERIE A,1,25/08/2019,Roma,Genoa,Away,Domenico Criscito,43,YES,NO,NO,NO,YES,NO,CB,NO,NO
+312,SERIE A,2,01/09/2019,Lazio,Roma,Away,Aleksandar Kolarov,15,NO,YES,NO,NO,YES,NO,LD,NO,NO
+313,SERIE A,2,01/09/2019,Cagliari,Inter Milan,Away,Romelu Lukaku,72,NO,YES,NO,NO,YES,NO,ST,YES,YES
+314,SERIE A,2,01/09/2019,Genoa ,Fiorentina,Away,Erick Pulgar,76,NO,NO,YES,NO,YES,NO,DM,NO,YES
+315,SERIE A,2,01/09/2019,Sassuolo,Samp,Away,Fabio Quagliarella,,NO,NO,YES,NO,YES,NO,ST,NO,YES
+316,SERIE A,3,15/09/2019,Genoa ,Atalanta,Away,Luis Muriel,64,NO,YES,NO,NO,YES,YES,ST,YES,NO
+317,SERIE A,3,15/09/2019,Genoa ,Atalanta,Home,Domenico Criscito,91,YES,NO,NO,NO,YES,NO,CB,NO,NO
+318,SERIE A,3,15/09/2019,SPAL,Lazio,Away,Ciro Immobile,17,NO,YES,NO,NO,YES,NO,ST,NO,NO
+319,SERIE A,3,15/09/2019,Verona,AC Milan,Away,Kzrysztof Piatek,68,NO,YES,NO,NO,YES,NO,ST,YES,YES
+320,SERIE A,3,16/09/2019,Torino,Lecce,Home,Andrea Belotti,58,YES,NO,NO,NO,YES,NO,ST,NO,NO
+321,SERIE A,4,21/09/2019,Juventus,Verona,Away,Samuel Di Carmine,20,NO,YES,NO,NO,NO,NO,ST,NO,NO
+322,SERIE A,4,21/09/2019,Juventus,Verona,Home,Cristiano Ronaldo,49,NO,YES,NO,NO,YES,NO,W,YES,YES
+323,SERIE A,4,22/09/2019,Bologna,Roma,Home,Nicola Sansone,54,YES,NO,NO,NO,YES,NO,W,NO,NO
+324,SERIE A,4,22/09/2019,Lecce,Napoli,Away,Lorenzo Insigne,38,NO,NO,NO,YES,NO,NO,W,YES,NO
+325,SERIE A,4,22/09/2019,Lecce,Napoli,Away,Lorenzo Insigne,40,NO,NO,NO,YES,YES,NO,W,YES,NO
+326,SERIE A,4,22/09/2019,Lecce,Napoli,Home,Marco Mancosu,61,NO,NO,YES,NO,YES,NO,ST,NO,NO
+327,SERIE A,5,25/09/2019,Genoa ,Bologna,Away,Nicola Sansone,78,NO,YES,NO,NO,NO,NO,W,NO,YES
+328,SERIE A,5,25/09/2019,Parma,Sassuolo,Home,Roberto Inglese,74,NO,YES,NO,NO,NO,NO,ST,YES,NO
+329,SERIE A,5,25/09/2019,SPAL,Lecce,Away,Marco Mancosu,11,NO,YES,NO,NO,YES,NO,ST,YES,NO
+330,SERIE A,5,25/09/2019,SPAL,Lecce,Away,Marco Mancosu,73,NO,NO,NO,YES,YES,NO,ST,YES,YES
+331,SERIE A,5,26/09/2019,Torino,AC Milan,Away,Kzrysztof Piatek,18,NO,YES,NO,NO,YES,NO,ST,NO,NO
+332,SERIE A,6,29/09/2019,Lecce,Roma,Away,Aleksandar Kolarov,80,NO,NO,NO,YES,NO,NO,LD,YES,YES
+333,SERIE A,6,29/09/2019,AC Milan,Fiorentina,Away,Erick Pulgar,14,NO,YES,NO,NO,YES,NO,DM,YES,NO
+334,SERIE A,6,29/09/2019,AC Milan,Fiorentina,Away,Federico Chiesa,70,NO,NO,NO,YES,NO,NO,W,YES,NO
+335,SERIE A,6,30/09/2019,Parma,Torino,Home,Gervinho,31,NO,YES,NO,NO,NO,NO,W,YES,NO
+336,SERIE A,6,30/09/2019,Parma,Torino,Away,Andrea Belotti,43,NO,YES,NO,NO,YES,NO,ST,NO,NO
+337,SERIE A,7,05/10/2019,Genoa ,AC Milan,Away,Franck Kessie,57,NO,YES,NO,NO,YES,NO,DM,YES,YES
+338,SERIE A,7,05/10/2019,Genoa ,AC Milan,Home,Lars Schone,93,YES,NO,NO,NO,NO,NO,OM,NO,YES
+339,SERIE A,7,06/10/2019,Bologna,Lazio,Away,Joaquin Correa,88,NO,YES,NO,NO,NO,NO,ST,NO,YES
+340,SERIE A,7,06/10/2019,Roma,Cagliari,Away,Joao Pedro,26,NO,YES,NO,NO,YES,NO,OM,NO,NO
+341,SERIE A,7,06/10/2019,Inter Milan,Juventus,Home,Lautaro Martinez,18,YES,NO,NO,NO,YES,NO,ST,NO,NO
+342,SERIE A,8,19/10/2019,Lazio,Atalanta,Home,Ciro Immobile,69,NO,NO,YES,NO,YES,NO,ST,NO,NO
+343,SERIE A,8,19/10/2019,Lazio,Atalanta,Home,Ciro Immobile,93,YES,NO,NO,NO,YES,NO,ST,NO,YES
+344,SERIE A,8,20/10/2019,Sassuolo,Inter Milan,Away,Romelu Lukaku,45,NO,NO,NO,YES,YES,NO,ST,YES,NO
+345,SERIE A,8,20/10/2019,Sassuolo,Inter Milan,Away,Lautaro Martinez,71,NO,NO,NO,YES,YES,NO,ST,YES,NO
+346,SERIE A,8,20/10/2010,AC Milan,Lecce,Away,Khouma Babacar,62,YES,NO,NO,NO,NO,NO,ST,NO,NO
+347,SERIE A,9,26/10/2019,Lecce,Juventus,Away,Paulo Dybala,50,NO,YES,NO,NO,YES,NO,OM,NO,NO
+348,SERIE A,9,26/10/2019,Lecce,Juventus,Home,Marco Mancosu,56,YES,NO,NO,NO,YES,NO,OM,NO,YES
+349,SERIE A,9,27/10/2019,Atalanta,Udinese,Home,Luis Muriel,35,NO,YES,NO,NO,YES,NO,ST,YES,NO
+350,SERIE A,9,27/10/2019,Atalanta,Udinese,Home,Luis Muriel,75,NO,NO,NO,YES,YES,NO,ST,YES,NO
+351,SERIE A,9,27/10/2019,Fiorentina,Lazio,Away,Felipe Caicedo,97,NO,NO,NO,YES,NO,YES,ST,YES,YES
+352,SERIE A,10,30/10/2019,Cagliari,Bologna,Away,Federico Santander,23,NO,YES,NO,NO,YES,NO,ST,NO,NO
+353,SERIE A,10,30/10/2019,Juventus,Genoa,Home,Cristiano Ronaldo,96,NO,YES,NO,NO,YES,NO,ST,YES,YES
+354,SERIE A,10,30/10/2019,Lazio,Torino,Home,Ciro Immobile,70,NO,NO,NO,YES,YES,NO,ST,YES,NO
+355,SERIE A,10,30/10/2019,Udinese,Roma,Away,Aleksandar Kolarov,65,NO,NO,NO,YES,YES,NO,LD,YES,YES
+356,SERIE A,11,02/11/2019,Roma,Napoli,Home,Aleksandar Kolarov,26,NO,NO,NO,YES,NO,NO,LD,YES,NO
+357,SERIE A,11,02/11/2019,Roma,Napoli,Home,Jordan Veretout,55,NO,NO,NO,YES,YES,NO,DM,YES,NO
+358,SERIE A,11,02/11/2019,Bologna,Inter Milan,Away,Romelu Lukaku,91,NO,YES,NO,NO,YES,NO,ST,YES,YES
+359,SERIE A,12,09/11/2019,Brescia,Torino,Away,Andrea Belotti,17,NO,YES,NO,NO,YES,NO,ST,YES,NO
+360,SERIE A,12,09/11/2019,Brescia,Torino,Away,Andrea Belotti,26,NO,NO,NO,YES,YES,NO,ST,YES,NO
+361,SERIE A,12,09/11/2019,Inter Milan,Verona,Away,Valerio Verre,19,NO,YES,NO,NO,YES,NO,OM,NO,NO
+362,SERIE A,12,10/11/2019,Lazio,Lecce,Away,Khouma Babacar,67,YES,NO,NO,NO,NO,NO,ST,NO,NO
+363,SERIE A,12,10/11/2019,Lazio,Lecce,Home,Ciro Immobile,77,NO,NO,NO,YES,YES,NO,ST,YES,NO
+364,SERIE A,12,10/11/2019,Udinese,SPAL,Away,Andrea Petagna,98,NO,YES,NO,NO,NO,YES,ST,NO,YES
+365,SERIE A,13,23/11/2019,Atalanta,Juventus,Home,Musa Barrow,17,NO,YES,NO,NO,NO,NO,ST,NO,NO
+366,SERIE A,13,24/11/2019,Sampdoria,Udinese,Home,Gaston Ramirez,75,NO,YES,NO,NO,YES,NO,OM,YES,YES
+367,SERIE A,13,25/11/2019,Lecce,Cagliari,Away,Joao Pedro,30,NO,YES,NO,NO,YES,NO,ST,NO,NO
+368,SERIE A,13,25/11/2019,Lecce,Cagliari,Home,Gianluca Lapadula,83,NO,NO,YES,NO,YES,NO,ST,NO,NO
+369,SERIE A,13,25/11/2019,SPAL,Genoa,Home,Andrea Petagna,55,NO,YES,NO,NO,YES,NO,ST,NO,NO
+370,SERIE A,14,01/12/2019,Juventus,Sassuolo,Home,Cristiano Ronaldo,68,YES,NO,NO,NO,YES,NO,ST,NO,YES
+371,SERIE A,14,01/12/2019,Lazio,Udinese,Home,Ciro Immobile,36,NO,NO,NO,YES,YES,NO,ST,YES,NO
+372,SERIE A,14,01/12/2019,Lazio,Udinese,Home,Luis Alberto,45,NO,NO,NO,YES,YES,NO,OM,YES,YES
+373,SERIE A,14,01/12/2019,Verona,Roma,Away,Diego Perotti,45,NO,YES,NO,NO,YES,YES,W,YES,NO
+374,SERIE A,14,02/12/2019,Cagliari,Sampdoria,Away,Fabio Quagliarella,38,NO,YES,NO,NO,YES,NO,ST,NO,NO
+375,SERIE A,15,07/12/2019,Atalanta,Verona,Home,Luis Muriel,64,YES,NO,NO,NO,YES,NO,ST,YES,NO
+376,SERIE A,15,07/12/2019,Lazio,Juventus,Home,Ciro Immobile,79,NO,NO,NO,YES,NO,NO,ST,YES,NO
+377,SERIE A,15,08/12/2019,Lecce,Genoa,Away,Domenico Criscito,45,NO,NO,NO,YES,YES,NO,CB,NO,NO
+378,SERIE A,15,08/12/2019,Sassuolo,Cagliari,Home,Domenico Berardi,65,NO,NO,NO,YES,NO,NO,W,NO,NO
+379,SERIE A,15,08/12/2019,SPAL,Brescia,Home,Andrea Petagna,74,YES,NO,NO,NO,NO,NO,ST,NO,YES
+380,SERIE A,15,08/12/2019,Sampdoria,Parma,Home,Fabio Quagliarella,77,YES,NO,NO,NO,NO,NO,ST,NO,YES
+381,SERIE A,15,08/12/2019,Bologna,AC Milan,Away,Kzrysztof Piatek,15,NO,YES,NO,NO,YES,NO,ST,YES,NO
+382,SERIE A,15,08/12/2019,Bologna,AC Milan,Home,Nicola Sansone,84,NO,NO,YES,NO,YES,NO,W,NO,YES
+383,SERIE A,16,15/12/2019,Verona,Torino,Home,Gianpaolo Pazzini,69,NO,NO,YES,NO,YES,YES,OM,NO,NO
+384,SERIE A,16,15/12/2019,Roma,SPAL,Away,Andrea Petagna,44,NO,YES,NO,NO,YES,NO,ST,NO,NO
+385,SERIE A,16,15/12/2019,Roma,SPAL,Home,Diego Perotti,66,NO,YES,NO,NO,YES,NO,W,YES,NO
+386,SERIE A,17,21/12/2019,Inter Milan,Genoa,Home,Sebastiano Esposito,64,NO,NO,NO,YES,YES,NO,ST,YES,NO
+387,SERIE A,18,05-janv,Brescia,Lazio,Away,Ciro Immobile,42,YES,NO,NO,NO,YES,NO,ST,YES,NO
+388,SERIE A,18,05-janv,Genoa ,Sassuolo,Home,Domenico Criscito,29,NO,YES,NO,NO,YES,NO,CB,YES,NO
+389,SERIE A,18,05-janv,Roma,Torino,Away,Andrea Belotti,86,NO,NO,NO,YES,YES,NO,ST,YES,YES
+390,SERIE A,18,06-janv,Juventus,Cagliari,Home,Cristiano Ronaldo,67,NO,NO,NO,YES,YES,NO,ST,YES,NO
+391,SERIE A,19,11-janv,Inter Milan,Atalanta,Away,Luis Muriel,88,NO,YES,NO,NO,NO,YES,ST,NO,YES
+392,SERIE A,19,12-janv,Sampdoria,Brescia,Home,Fabio Quagliarella,69,NO,NO,NO,YES,YES,NO,ST,YES,NO
+393,SERIE A,19,12-janv,Verona,Genoa,Home,Valerio Verre,55,YES,NO,NO,NO,YES,NO,ST,YES,NO
+394,SERIE A,19,12-janv,Roma,Juventus,Away,Cristiano Ronaldo,10,NO,NO,NO,YES,YES,NO,ST,YES,NO
+395,SERIE A,19,12-janv,Roma,Juventus,Home,Diego Perotti,68,NO,NO,YES,NO,YES,NO,W,NO,YES
+396,SERIE A,20,18-janv,Lazio,Sampdoria,Home,Ciro Immobile,17,NO,NO,NO,YES,YES,NO,ST,YES,NO
+397,SERIE A,20,18-janv,Lazio,Sampdoria,Home,Ciro Immobile,65,NO,NO,NO,YES,YES,NO,ST,YES,NO
+398,SERIE A,20,19-janv,Brescia,Cagliari,Away,Joao Pedro,68,YES,NO,NO,NO,YES,NO,OM,NO,YES
+399,SERIE A,21,25-janv,SPAL,Bologna,Home,Andrea Petagna,23,NO,YES,NO,NO,YES,NO,ST,NO,NO
+400,SERIE A,21,25-janv,Fiorentina,Genoa,Away,Domenico Criscito,15,NO,YES,NO,NO,NO,NO,CB,NO,YES
+401,SERIE A,21,25-janv,Torino,Atalanta,Away,Duvan Zapata,45,NO,NO,NO,YES,YES,NO,ST,YES,NO
+402,SERIE A,21,25-janv,Torino,Atalanta,Away,Luis Muriel,86,NO,NO,NO,YES,YES,YES,ST,YES,NO
+403,SERIE A,21,26-janv,Verona,Lecce,Home,Gianpaolo Pazzini,87,NO,NO,NO,YES,YES,YES,ST,YES,YES
+404,SERIE A,22,01-fÃ©vr,Bologna,Brescia,Away,Ernesto Torregrosa,36,NO,YES,NO,NO,YES,NO,ST,NO,NO
+405,SERIE A,22,01-fÃ©vr,Cagliari,Parma,Home,Joao Pedro,53,NO,YES,NO,NO,NO,NO,OM,NO,NO
+406,SERIE A,22,01-fÃ©vr,Sassuolo,Roma,Away,Jordan Veretout,73,NO,NO,YES,NO,YES,NO,DM,NO,NO
+407,SERIE A,22,02-fÃ©vr,Juventus,Fiorentina,Home,Cristiano Ronaldo,40,NO,YES,NO,NO,YES,NO,W,YES,NO
+408,SERIE A,22,02-fÃ©vr,Juventus,Fiorentina,Home,Cristiano Ronaldo,80,NO,NO,NO,YES,YES,NO,W,YES,NO
+409,SERIE A,22,02-fÃ©vr,Atalanta,Genoa,Away,Domenico Criscito,19,YES,NO,NO,NO,YES,NO,LD,NO,NO
+410,SERIE A,22,02-fÃ©vr,Lecce,Torino,Home,Gianluca Lapadula,78,NO,NO,NO,YES,YES,NO,ST,YES,YES
+411,SERIE A,22,02-fÃ©vr,Udinese,Inter Milan,Away,Romelu Lukaku,71,NO,NO,NO,YES,YES,NO,ST,YES,YES
+412,SERIE A,22,03-fÃ©vr,Sampdoria,Napoli,Home,Manolo Gabbiadini,73,YES,NO,NO,NO,YES,NO,OM,NO,NO
+413,SERIE A,23,08-fÃ©vr,Torino,Sampdoria,Away,Fabio Quagliarella,79,NO,NO,NO,YES,YES,NO,ST,YES,YES
+414,SERIE A,23,08-fÃ©vr,Verona,Juventus,Home,Gianpaolo Pazzini,86,NO,YES,NO,NO,YES,YES,OM,YES,YES
+415,SERIE A,23,09-fÃ©vr,SPAL,Sassuolo,Away,Francesco Caputo,65,YES,NO,NO,NO,YES,NO,ST,YES,NO
+416,SERIE A,24,15-fÃ©vr,Lecce,SPAL,Home,Marco Mancosu,41,NO,YES,NO,NO,YES,NO,OM,YES,NO
+417,SERIE A,24,15-fÃ©vr,Bologna,Genoa,Away,Domenico Criscito,90,NO,NO,NO,YES,NO,NO,LD,YES,YES
+418,SERIE A,24,16-fÃ©vr,Sampdoria,Fiorentina,Away,Dusan Vlahovic,18,NO,NO,NO,YES,YES,NO,ST,YES,NO
+419,SERIE A,24,16-fÃ©vr,Sampdoria,Fiorentina,Away,Federico Chiesa,40,NO,NO,NO,YES,YES,NO,W,YES,NO
+420,SERIE A,24,16-fÃ©vr,Lazio,Inter Milan,Home,Ciro Immobile,50,YES,NO,NO,NO,YES,NO,ST,YES,NO
+421,SERIE A,25,21-fÃ©vr,Brescia,Napoli,Away,Lorenzo Insigne,49,YES,NO,NO,NO,YES,NO,W,YES,NO
+422,SERIE A,25,22-fÃ©vr,SPAL,Juventus,Home,Andrea Petagna,69,NO,NO,YES,NO,YES,NO,ST,NO,YES
+423,SERIE A,25,22-fÃ©vr,Fiorentina,AC Milan,Home,Erick Pulgar,85,YES,NO,NO,NO,YES,NO,DM,NO,YES
+424,SERIE A,25,23-fÃ©vr,Genoa,Lazio,Home,Domenico Criscito,90,NO,NO,YES,NO,YES,NO,LD,NO,YES
+425,SERIE A,25,20-juin,Torino,Parma,Home,Andrea Belotti,48,NO,YES,NO,NO,NO,NO,ST,NO,YES
+426,SERIE A,26,01-mars,Cagliari,Roma,Home,Joao Pedro,89,NO,NO,YES,NO,NO,NO,W,NO,NO
+427,SERIE A,26,08-mars,Parma,SPAL,Away,Andrea Petagna,71,NO,YES,NO,NO,YES,NO,ST,YES,YES
+428,SERIE A,26,08-mars,Sampdoria,Verona,Home,Fabio Quagliarella,86,NO,YES,NO,NO,YES,NO,ST,YES,YES
+429,SERIE A,27,22-juin,Fiorentina,Brescia,Away,Alfredo Donnarumma,17,NO,YES,NO,NO,YES,NO,ST,NO,NO
+430,SERIE A,27,22-juin,Lecce,AC Milan,Home,Marco Mancosu,54,YES,NO,NO,NO,YES,NO,DM,NO,NO
+431,SERIE A,27,22-juin,Bologna,Juventus,Away,Cristiano Ronaldo,23,NO,YES,NO,NO,YES,NO,W,YES,NO
+432,SERIE A,27,23-juin,Genoa,Parma,Home,Domenico Criscito,29,YES,NO,NO,NO,NO,NO,LD,NO,NO
+433,SERIE A,27,23-juin,Genoa,Parma,Home,Iago Falque,59,NO,NO,YES,NO,YES,YES,W,NO,NO
+434,SERIE A,27,24-juin,Inter Milan,Sassuolo,Home,Romelu Lukaku,41,YES,NO,NO,NO,YES,NO,ST,NO,NO
+435,SERIE A,27,24-juin,Inter Milan,Sassuolo,Away,Domenico Berardi,81,YES,NO,NO,NO,YES,NO,W,NO,NO
+436,SERIE A,28,26-juin,Juventus,Lecce,Home,Cristiano Ronaldo,62,NO,NO,NO,YES,YES,NO,W,YES,NO
+437,SERIE A,28,27-juin,Brescia,Genoa,Away,Iago Falque,38,NO,NO,YES,NO,YES,NO,OM,NO,NO
+438,SERIE A,28,27-juin,Brescia,Genoa,Away,Andrea Pinamonti,70,YES,NO,NO,NO,YES,NO,ST,NO,YES
+439,SERIE A,28,27-juin,Cagliari,Torino,Home,Joao Pedro,69,NO,NO,NO,YES,YES,NO,ST,YES,YES
+440,SERIE A,28,27-juin,Lazio,Fiorentina,Home,Ciro Immobile,67,YES,NO,NO,NO,YES,NO,ST,YES,NO
+441,SERIE A,28,28-juin,AC Milan,Roma,Home,Hakan Calhanoglu,89,NO,NO,NO,YES,YES,NO,OM,YES,YES
+442,SERIE A,28,28-juin,Sampdoria,Bologna,Away,Musa Barrow,72,NO,YES,NO,NO,YES,YES,ST,YES,NO
+443,SERIE A,29,30-juin,Torino,Lazio,Home,Andrea Belotti,5,NO,YES,NO,NO,YES,NO,ST,NO,NO
+444,SERIE A,29,01-juil,Inter Milan,Brescia,Home,Alexis Sanchez,20,NO,NO,NO,YES,YES,NO,W,YES,NO
+445,SERIE A,29,01-juil,Verona,Parma,Home,Samuel Di Carmine,45,YES,NO,NO,NO,YES,NO,W,YES,NO
+446,SERIE A,29,01-juil,Lecce,Sampdoria,Away,Gaston Ramirez,40,NO,YES,NO,NO,YES,NO,OM,YES,NO
+447,SERIE A,29,01-juil,Lecce,Sampdoria,Home,Marco Mancosu,50,YES,NO,NO,NO,YES,NO,DM,NO,NO
+448,SERIE A,29,01-juil,Lecce,Sampdoria,Away,Gaston Ramirez,75,NO,YES,NO,NO,YES,NO,OM,YES,YES
+449,SERIE A,29,01-juil,Fiorentina,Sassuolo,Away,Gregoire Defrel,24,NO,YES,NO,NO,YES,NO,ST,YES,NO
+450,SERIE A,30,04-juil,Juventus,Torino,Away,Andrea Belotti,45,NO,NO,YES,NO,YES,NO,ST,NO,NO
+451,SERIE A,30,04-juil,Sassuolo,Lecce,Home,Domenico Berardi,63,NO,YES,NO,NO,YES,NO,W,YES,NO
+452,SERIE A,30,04-juil,Sassuolo,Lecce,Away,Marco Mancosu,67,YES,NO,NO,NO,YES,YES,OM,NO,NO
+453,SERIE A,30,04-juil,Lazio,AC Milan,Away,Zlatan Ibrahimovic,34,NO,NO,NO,YES,YES,NO,ST,YES,NO
+454,SERIE A,30,05-juil,Inter Milan,Bologna,Home,Lautaro Martinez,62,NO,NO,NO,YES,NO,NO,ST,NO,NO
+455,SERIE A,30,05-juil,Cagliari,Atalanta,Away,Luis Muriel,27,NO,YES,NO,NO,YES,NO,ST,YES,YES
+456,SERIE A,30,05-juil,Parma,Fiorentina,Away,Erick Pulgar,19,NO,YES,NO,NO,YES,NO,DM,YES,NO
+457,SERIE A,30,05-juil,Parma,Fiorentina,Away,Erick Pulgar,31,NO,NO,NO,YES,YES,NO,DM,YES,NO
+458,SERIE A,30,05-juil,Parma,Fiorentina,Home,Juraj Kucka,49,NO,NO,YES,NO,YES,NO,DM,NO,YES
+459,SERIE A,30,05-juil,Udinese,Genoa,Away,Andrea Pinamonti,97,YES,NO,NO,NO,NO,YES,ST,NO,NO
+460,SERIE A,31,07-juil,Lecce,Lazio,Home,Marco Mancosu,45,NO,YES,NO,NO,NO,NO,DM,YES,NO
+461,SERIE A,31,07-juil,AC Milan,Juventus,Home,Zlatan Ibrahimovic,62,NO,NO,YES,NO,YES,NO,ST,YES,NO
+462,SERIE A,31,08-juil,Roma,Parma,Away,Juraj Kucka,9,NO,YES,NO,NO,YES,NO,DM,NO,NO
+463,SERIE A,32,11-juil,Juventus,Atalanta,Home,Cristiano Ronaldo,55,YES,NO,NO,NO,YES,NO,W,NO,NO
+464,SERIE A,32,11-juil,Juventus,Atalanta,Home,Cristiano Ronaldo,90,YES,NO,NO,NO,YES,NO,W,NO,YES
+465,SERIE A,32,12-juil,Genoa,SPAL,Home,Iago Falque,37,NO,NO,NO,YES,NO,NO,W,YES,NO
+466,SERIE A,32,12-juil,Napoli,AC Milan,Away,Franck Kessie,73,YES,NO,NO,NO,YES,NO,DM,NO,YES
+467,SERIE A,33,15-juil,Lecce,Fiorentina,Away,Erick Pulgar,11,NO,NO,NO,YES,NO,NO,DM,YES,NO
+468,SERIE A,33,15-juil,Roma,Verona,Home,Jordan Veretout,10,NO,YES,NO,NO,YES,NO,DM,YES,NO
+469,SERIE A,34,19-juil,Genoa,Lecce,Away,Marco Mancosu,45,YES,NO,NO,NO,NO,NO,DM,NO,NO
+470,SERIE A,34,19-juil,Roma,Inter Milan,Away,Romelu Lukaku,88,YES,NO,NO,NO,YES,YES,ST,NO,YES
+471,SERIE A,34,20-juil,Juventus,Lazio,Home,Cristiano Ronaldo,51,NO,YES,NO,NO,YES,NO,W,YES,NO
+472,SERIE A,34,20-juil,Juventus,Lazio,Away,Ciro Immobile,83,NO,NO,YES,NO,YES,NO,ST,NO,YES
+473,SERIE A,35,21-juil,Sassuolo,AC Milan,Home,Francesco Caputo,42,YES,NO,NO,NO,YES,NO,ST,NO,NO
+474,SERIE A,35,22-juil,Parma,Napoli,Home,Gianluca Caprari,45,NO,YES,NO,NO,YES,NO,ST,YES,NO
+475,SERIE A,35,22-juil,Parma,Napoli,Away,Lorenzo Insigne,54,YES,NO,NO,NO,YES,NO,W,NO,NO
+476,SERIE A,35,22-juil,Parma,Napoli,Home,Dejan Kulusevski,87,NO,YES,NO,NO,YES,YES,OM,YES,YES
+477,SERIE A,35,22-juil,Sampdoria,Genoa,Away,Domenico Criscito,22,NO,YES,NO,NO,YES,NO,LD,YES,NO
+478,SERIE A,35,22-juil,Torino,Verona,Away,Fabio Borini,56,NO,YES,NO,NO,YES,NO,W,NO,NO
+479,SERIE A,36,24-juil,AC Milan,Atalanta,Away,Ruslan Malinovskiy,26,YES,NO,NO,NO,NO,NO,ST,NO,NO
+480,SERIE A,36,26-juil,Roma,Fiorentina,Home,Jordan Veretout,45,NO,YES,NO,NO,YES,NO,DM,YES,NO
+481,SERIE A,36,26-juil,Roma,Fiorentina,Home,Jordan Veretout,87,NO,YES,NO,NO,YES,NO,DM,YES,YES
+482,SERIE A,36,26-juil,Verona,Lazio,Home,Sofyan Amrabat,39,NO,YES,NO,NO,YES,NO,DM,NO,NO
+483,SERIE A,36,26-juil,Verona,Lazio,Away,Ciro Immobile,45,YES,NO,NO,NO,YES,NO,ST,YES,NO
+484,SERIE A,36,26-juil,Verona,Lazio,Away,Ciro Immobile,94,NO,NO,NO,YES,YES,NO,ST,YES,YES
+485,SERIE A,36,26-juil,Juventus,Sampdoria,Home,Cristiano Ronaldo,89,NO,NO,NO,YES,NO,NO,W,YES,YES
+486,SERIE A,37,29-juil,Udinese,Lecce,Away,Marco Mancosu,40,YES,NO,NO,NO,YES,NO,DM,YES,NO
+487,SERIE A,37,29-juil,Sampdoria,AC Milan,Home,Gonzalo Maroni,78,NO,NO,YES,NO,NO,YES,W,NO,NO
+488,SERIE A,37,29-juil,Torino,Roma,Away,Amadou Diawara,61,NO,NO,NO,YES,YES,NO,DM,YES,NO
+489,SERIE A,38,01-aoÃ»t,Brescia,Sampdoria,Away,Fabio Quagliarella,27,NO,YES,NO,NO,NO,NO,ST,NO,NO
+490,SERIE A,38,01-aoÃ»t,Brescia,Sampdoria,Home,Ernesto Torregrosa,49,YES,NO,NO,NO,YES,NO,ST,NO,YES
+491,SERIE A,38,01-aoÃ»t,AC Milan,Cagliari,Home,Zlatan Ibrahimovic,44,NO,NO,NO,YES,NO,NO,ST,YES,NO
+492,SERIE A,38,01-aoÃ»t,Napoli,Lazio,Home,Lorenzo Insigne,54,NO,YES,NO,NO,YES,NO,W,YES,NO
+493,SERIE A,38,01-aoÃ»t,Juventus,Roma,Away,Diego Perotti,44,NO,YES,NO,NO,YES,NO,W,YES,NO
+494,SERIE A,38,02-aoÃ»t,SPAL,Fiorentina,Away,Erick Pulgar,93,NO,NO,NO,YES,YES,NO,DM,YES,YES
